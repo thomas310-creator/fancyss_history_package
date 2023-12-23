@@ -1,4 +1,15 @@
-#EXTINF:-1 group-title="电视剧",恶作剧之吻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV75.m3u8
+#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
+#EXTINF:-1,group-title="4K",Love Nrture 4K「自然」
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1,group-title="4K",Fashion 4K「时尚」
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1,group-title="4K",苏州4K
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 tvg-name="fashiontv uhd" tvg-logo="https://epg.pw/media/images/channel/2016/01/14/large/20160114184940777689_52.png" group-title="4K",fashiontv uhd
+https://epg.pw/stream/65d726061b82da69b383f5403bb31b63aeefc60c1649a0c39d54a0eacc2e8c1a.m3u8
+
+
+
+
 #EXTINF:-1 group-title="电视剧",廉政英雄
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8

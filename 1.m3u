@@ -5,8 +5,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1,group-title="4K",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 tvg-name="fashiontv uhd" tvg-logo="https://epg.pw/media/images/channel/2016/01/14/large/20160114184940777689_52.png" group-title="4K",fashiontv uhd
-https://epg.pw/stream/65d726061b82da69b383f5403bb31b63aeefc60c1649a0c39d54a0eacc2e8c1a.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/09/2786099823/u2786099823JvlwBLO.jpg" group-title="4K", 开饭了大熊猫
 https://www.goodiptv.club/yy/1382741641
@@ -14,6 +13,24 @@ https://www.goodiptv.club/yy/1382741641
 
 #EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/9d82d158ccbf6c81800a5668fe71a63533fa828bea56?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UyNzI=,g_7,xp_5,yp_5/format,f_auto" group-title="一起看", 埋堆堆港剧日记
 https://www.goodiptv.club/huya/23903130
+
+
+
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="YouTube「P」",凤凰资讯
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="YouTube「P」",凤凰中文
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="YouTube「P」",中天新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 tvg-name="台视新闻" group-title="YouTube「P」",台视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+#EXTINF:-1 tvg-name="TVBS新闻" group-title="YouTube「P」",TVBS网路新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+#EXTINF:-1 group-title="YouTube「P」",Tokyo Shibuya「东京涩谷」
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
+#EXTINF:-1 tvg-name="天才冲冲冲" group-title="YouTube「P」",天才冲冲冲「综艺」
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+
 
 
 
@@ -227,6 +244,56 @@ https://www.goodiptv.club/yy/1382741640
 #EXTINF:-1 group-title="电视剧",廉政英雄
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
 
+
+#EXTINF:-1 group-title="韩国",Job Plus tv
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+#EXTINF:-1 group-title="韩国",Arirang 阿里郎
+http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 group-title="韩国",BBS 불교 방송
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
+#EXTINF:-1 group-title="韩国",CJ OnStyle
+https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+#EXTINF:-1 group-title="韩国",EBS+ 1
+http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+#EXTINF:-1 group-title="韩国",EBS+ 2
+http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+#EXTINF:-1 group-title="韩国",EBS 1
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
+#EXTINF:-1 group-title="韩国",EBS 2
+http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
+#EXTINF:-1 group-title="韩国",EBS 키즈
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
+#EXTINF:-1 group-title="韩国",Job Plus tv
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8?zshijd
+#EXTINF:-1 group-title="韩国",GS Shop
+https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="韩国",Gugak TV
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 group-title="韩国",KBS Kids
+http://mytv.dothome.co.kr/ch/catv/6.php
+#EXTINF:-1 group-title="韩国",KBS LiveCam DokDo
+http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+#EXTINF:-1 group-title="韩国",KBS Story
+http://mytv.dothome.co.kr/ch/catv/4.php
+#EXTINF:-1 group-title="韩国",tvg-name="kbs world" ,tvg-logo="https://bkimg.cdn.bcebos.com/pic/d788d43f8794a4c27d1ef39599a20cd5ad6eddc4934d?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UyMjA=,g_7,xp_5,yp_5/format,f_auto",KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:-1 group-title="韩国",tvg-name="kbs world"  tvg-logo="https://epg.pw/media/images/channel/2022/12/16/large/20221216014452380617_19.png" ,kbs world
+https://epg.pw/stream/28f3524227d84af6a4dc48691f493d0ae706daf74d57d5d1cff32c41b284c98e.m3u8
+#EXTINF:-1 tvg-name="kbs world"  tvg-logo="https://epg.pw/media/images/channel/2022/12/16/large/20221216014452380617_19.png" group-title="韩国",kbs world
+https://epg.pw/stream/a2a622e171a9c746699efe6fcdea4a86053a44a421868886e6d824ab463ce213.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-name="NHK World Japan"  tvg-logo="https://epg.pw/media/images/channel/2022/03/05/large/20220305152534604002_80.png" group-title="日本",[BD]nhk world japan
+https://epg.pw/stream/32610332577749fcd80720c38e7165fdca073baffb5c1d418d452290dca56d23.m3u8
+#EXTINF:-1 tvg-name="TOKYO MX" tvg-logo="https://epg.pw/media/images/channel/2022/05/12/large/20220512210811824393_73.jpg" group-title="日本",tokyo mx1[综合]
+https://epg.pw/stream/e64faff85535292629097f1bfcc6c52f99adda47841b046ff9cc889fd935add1.m3u8
+#EXTINF:-1 tvg-name="nhk world premium" tvg-logo="https://epg.pw/media/img/logo/1_2.png" group-title="日本",nhk world[新闻]
+https://epg.pw/stream/bef8cba2d8138b68bfe911a67fbd82c5001a748c6aede3fabdb5b5712964eb53.m3u8
+#EXTINF:-1 tvg-name="qvc japan"tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021009758839_20.png" group-title="日本",qvc japan[其它]
+https://epg.pw/stream/178ef81e170e7020504291d67166d2ab9b4eb67f17a4520d1107779a433a8fec.m3u8
 
 
 

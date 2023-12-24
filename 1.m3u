@@ -12,7 +12,11 @@ https://epg.pw/stream/65d726061b82da69b383f5403bb31b63aeefc60c1649a0c39d54a0eacc
 https://www.goodiptv.club/huya/23903130
 
 
-#EXTINF:-1 tvg-name="林正英" tvg-logo="https://img2.baidu.com/it/u=130927634,1364552729&fm=253&fmt=auto&app=138&f=JPEG?w=680&h=500" tvg-id="林正英" group-title="电影",林正英
+
+
+#EXTINF:-1 tvg-name="周星驰" tvg-logo="https://img2.baidu.com/it/u=2384269657,1221413461&…1&q=75&n=0&f=JPEG&fmt=auto&maxorilen2heic=2000000"  group-title="电影",周星驰
+http://tx-screenshots.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.flv
+#EXTINF:-1 tvg-name="林正英" tvg-logo="https://img2.baidu.com/it/u=130927634,1364552729&fm=253&fmt=auto&app=138&f=JPEG?w=680&h=500" group-title="电影",林正英
 http://tx-screenshots.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.flv
 
 

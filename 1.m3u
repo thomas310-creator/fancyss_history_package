@@ -14,6 +14,15 @@ https://www.goodiptv.club/yy/1382741641
 #EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/9d82d158ccbf6c81800a5668fe71a63533fa828bea56?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UyNzI=,g_7,xp_5,yp_5/format,f_auto" group-title="一起看", 埋堆堆港剧日记
 https://www.goodiptv.club/huya/23903130
 
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
+http://cfss.cc/api/ysp/dfws.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
+http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
+http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/jswshd8m/8000000/mnf.m3u8
+
 
 
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="YouTube「P」",凤凰资讯
@@ -67,14 +76,12 @@ https://www.goodiptv.club/yy/1351030377
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV-2 财经" tvg-logo="https://i.imgur.com/6C9JEYt.png" tvg-id="CCTV2.cn" group-title="央视",CCTV-2 财经
 https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
-#EXTINF:-1 tvg-name="CCTV-4 中文国际（亚） Ⓨ" tvg-logo="https://i.imgur.com/ovUSVEQ.png" tvg-id="CCTV4Asia.cn" group-title="央视",CCTV-4 中文国际（亚） Ⓨ
-https://www.youtube.com/channel/UC4K_LI-Tn3-LshNgG0-YypQ/live
-#EXTINF:-1 tvg-name="CCTV-4 中文国际（美） Ⓢ" tvg-logo="https://i.imgur.com/1TPiRqR.png" tvg-id="CCTV4America.cn" group-title="央视",CCTV-4 中文国际（美） Ⓢ
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 #EXTINF:-1 tvg-name="CCTV-5 体育" tvg-logo="https://i.imgur.com/Mut2omN.png" tvg-id="CCTV5.cn" group-title="央视",CCTV-5 体育
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://i.imgur.com/UNjmQVS.png" tvg-id="CCTV5Plus.cn" group-title="央视",CCTV-5+ 体育赛事
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6电影频道
+http://cfss.cc/api/ysp/cctv6.m3u8
 #EXTINF:-1 tvg-name="CCTV-7 国防军事" tvg-logo="https://i.imgur.com/GhXlUpM.png" tvg-id="CCTV7.cn" group-title="央视",CCTV-7 国防军事
 https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV-8 电视剧" tvg-logo="https://i.imgur.com/Qg1opg9.png" tvg-id="CCTV8.cn" group-title="央视",CCTV-8 电视剧
@@ -83,8 +90,6 @@ https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV-10 科教" tvg-logo="https://i.imgur.com/W8JNs1s.png" tvg-id="CCTV10.cn" group-title="央视",CCTV-10 科教
 https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
-#EXTINF:-1 tvg-name="CCTV-13 新闻" tvg-logo="https://i.imgur.com/pPO8uJN.png" tvg-id="CCTV13.cn" group-title="央视",CCTV-13 新闻
-https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV-17 农业农村" tvg-logo="https://i.imgur.com/XMsoHut.png" tvg-id="CCTV17.cn" group-title="央视",CCTV-17 农业农村
 https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 #EXTINF:-1 tvg-name="CETV-1" tvg-logo="https://i.imgur.com/AMcIAOV.png" tvg-id="CETV1.cn" group-title="央视",CETV-1
@@ -1026,3 +1031,16 @@ https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25c049869a174f5fa58
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4d0dc6b22b8e48efa4a984ec990a4faf/1200.m3u8
 #EXTINF:-1 group-title="动物世界",tvg-logo="https://p2.img.cntv.cn/photoAlbum/page/performance/img/2021/11/15/1636961185764_780.png",足球超级猎食者(下)
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d7aec4db75da469d915a5dd7a0fb3d70/1200.m3u8
+
+
+
+#EXTINF:-1  group-title="+",Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist_w131582150_b1896000.m3u8
+#EXTINF:-1  group-title="+",PURETABOO
+http://78.47.224.234/puretaboo/index.m3u8
+#EXTINF:-1  group-title="+",PLAYBOY 
+http://23.237.100.82:8000/PLAYBOY/index.m3u8
+#EXTINF:-1  group-title="+",PENTHOUSE GOLD
+http://51.159.102.100/PenthouseGold/index.m3u8
+#EXTINF:-1  group-title="+",PENTHOUSE
+http://23.237.100.82:8000/PENTHOUSE/index.m3u8

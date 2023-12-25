@@ -153,11 +153,22 @@ https://www.goodiptv.club/yy/1382735564
 https://www.goodiptv.club/yy/1354926650
 #EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/b999a9014c086e067239aff709087bf40bd1cbfd?x-bce-process=image/resize,m_lfit,h_766,limit_1" group-title="家庭情感剧", 生逢灿烂的日子
 https://www.goodiptv.club/yy/1382745085
-#EXTINF:-1 tvg-logo="https://pic3.iqiyipic.com/image/20231121/40/ac/a_100069506_m_601_m12_260_360.jpg?caplist=jpg,webp,avif" group-title="家庭情感剧", 守望的天空
+#EXTINF:-1 tvg-logo="https://img1.baidu.com/it/u=1325519254,842696141&fm=253&fmt=auto&app=138&f=JPEG?w=448&h=598" group-title="家庭情感剧", 守望的天空
 https://www.goodiptv.club/yy/1382736843
-
 #EXTINF:-1 tvg-logo="https://pic7.iqiyipic.com/image/20200916/60/96/a_100096713_m_601_m7_260_360.jpg?caplist=jpg,webp,avif" group-title="家庭情感剧", 吾儿可教
 https://www.goodiptv.club/yy/1354932391
+
+
+
+#EXTINF:-1 tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2318284749.webp" group-title="港剧台剧", 公公出宫
+https://www.goodiptv.club/yy/1354936208
+#EXTINF:-1 tvg-logo="https://img3.doubanio.com/view/photo/l/public/p2578715207.webpg" group-title="港剧台剧", 碧血盐枭
+https://www.goodiptv.club/yy/1354936178
+#EXTINF:-1 tvg-logo="https://img1.doubanio.com/view/photo/l/public/p1612858869.webp" group-title="港剧台剧", 耀舞长安
+https://www.goodiptv.club/yy/1382741640
+#EXTINF:-1 tvg-logo="https://img3.doubanio.com/view/photo/l/public/p2882095002.webp" group-title="港剧台剧",廉政英雄
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
+
 
 
 
@@ -169,8 +180,10 @@ https://www.goodiptv.club/yy/1354658051
 https://www.goodiptv.club/yy/1382749918
 
 
-#EXTINF:-1 tvg-logo="https://pic3.iqiyipic.com/image/20231101/e6/ab/a_100323444_m_601_m9_260_360.jpg?caplist=jpg,webp,avif" group-title="抗战影视剧", 李三枪
+#EXTINF:-1 tvg-logo="https://img3.doubanio.com/view/photo/l/public/p2791256717.webp" group-title="抗战影视剧", 李三枪
 https://www.goodiptv.club/yy/1354936122
+
+
 
 
 #EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/63d0f703918fa0ec08fa64f2c7c04eee3d6d54fb6d8e?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UyNzI=,g_7,xp_5,yp_5/format,f_auto" group-title="仙侠武侠剧", 仙剑奇侠传
@@ -292,19 +305,12 @@ https://www.goodiptv.club/yy/1354930952
 
 
 
-#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="zonghe", 国外喜剧电影
-https://www.goodiptv.club/yy/1354936178
-
-#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="zonghe", 无罪推定
-https://www.goodiptv.club/yy/1354936208
 
 
-#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="zonghe", 失忆24小时
-https://www.goodiptv.club/yy/1382741640
 
 
-#EXTINF:-1 group-title="电视剧",廉政英雄
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
+
+
 
 
 #EXTINF:-1 group-title="韩国",Job Plus tv

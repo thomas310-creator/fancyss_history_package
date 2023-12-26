@@ -5,7 +5,8 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1,group-title="4K",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-
+#EXTINF:-1,group-title="4K",上海动感101
+http://ls.qingting.fm/live/274.m3u8
 
 #EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/09/2786099823/u2786099823JvlwBLO.jpg" group-title="4K", 开饭了大熊猫
 https://www.goodiptv.club/yy/1382741641
@@ -17,9 +18,9 @@ https://www.goodiptv.club/huya/23903130
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
 http://cfss.cc/api/ysp/dfws.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
-http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
 http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/jswshd8m/8000000/mnf.m3u8
 
@@ -41,27 +42,8 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 
 
-
-
-
-#EXTINF:-1 tvg-name="周星驰" tvg-logo="https://img2.baidu.com/it/u=2384269657,1221413461&…1&q=75&n=0&f=JPEG&fmt=auto&maxorilen2heic=2000000"  group-title="电影",周星驰
-http://tx-screenshots.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.flv
-#EXTINF:-1 tvg-name="林正英" tvg-logo="https://img2.baidu.com/it/u=130927634,1364552729&fm=253&fmt=auto&app=138&f=JPEG?w=680&h=500" group-title="电影",林正英
-http://tx-screenshots.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.flv
-#EXTINF:-1 tvg-name="周润发" tvg-logo="https://img2.baidu.com/it/u=2762555590,3003386681&…1&q=75&n=0&f=JPEG&fmt=auto&maxorilen2heic=2000000" group-title="电影",周润发
-http://tx-screenshots.flv.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.flv
-#EXTINF:-1 tvg-name="沈腾" tvg-logo="https://img2.baidu.com/it/u=235661224,1195259468&f…1&q=75&n=0&f=JPEG&fmt=auto&maxorilen2heic=2000000" group-title="电影",沈腾
-http://tx-screenshots.flv.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.flv
-#EXTINF:-1 tvg-name="黄渤" tvg-logo="https://img1.baidu.com/it/u=1937608312,99991715&fm=253&app=120&size=w931&q=75&n=0&f=GIF" group-title="电影",黄渤
-http://tx-screenshots.flv.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.flv
 #EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="电影",国产喜剧
 https://www.goodiptv.club/yy/1382736856
-#EXTINF:-1 tvg-name="古装武侠" tvg-logo="" group-title="电影",古装武侠
-http://tx-screenshots.flv.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.flv
-#EXTINF:-1 tvg-name="王晶" tvg-logo="https://bkimg.cdn.bcebos.com/pic/d31b0ef41bd5ad6eddc4602e0d992edbb6fd536696ef?x-bce-process=image/resize,m_lfit,w_536,limit_1/quality,Q_70" group-title="电影",王晶
-http://tx-screenshots.flv.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.flv
-#EXTINF:-1 tvg-name="玄幻系列" tvg-logo="" group-title="电影",玄幻系列
-http://tx-screenshots.flv.huya.com/src/1423787882-1423787882-6115122389631107072-2847699220-10057-A-0-1.flv
 #EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/3bf33a87e950352a4137d91e5c43fbf2b2118b56?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxMTY=,g_7,xp_5,yp_5/format,f_auto" group-title="电影", 举起手来
 https://www.goodiptv.club/yy/1382736877
 #EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="电影", 鬼片 惊悚 喜剧
@@ -81,7 +63,7 @@ https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://i.imgur.com/UNjmQVS.png" tvg-id="CCTV5Plus.cn" group-title="央视",CCTV-5+ 体育赛事
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6电影频道
-http://cfss.cc/api/ysp/cctv6.m3u8
+http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv6hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="CCTV-7 国防军事" tvg-logo="https://i.imgur.com/GhXlUpM.png" tvg-id="CCTV7.cn" group-title="央视",CCTV-7 国防军事
 https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV-8 电视剧" tvg-logo="https://i.imgur.com/Qg1opg9.png" tvg-id="CCTV8.cn" group-title="央视",CCTV-8 电视剧

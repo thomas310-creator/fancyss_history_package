@@ -15,6 +15,8 @@ https://www.goodiptv.club/yy/1382741641
 https://epg.pw/stream/ca2f2aece144ab46ee64c76f769fa36ab38326fd216dd3d9e980bf055524466f.ctv
 #EXTINF:-1 tvg-name="都市频道" tvg-logo="https://epg.deny.vip/df/都市频道.png" group-title="上海",都市频道
 https://epg.pw/stream/7b05aaa7c484b4b641fcbf62f41a7c885960fbd3ffe4a0d89d3411184afdde92.ctv
+#EXTINF:-1 tvg-id="" tvg-name="上海东方购物1" tvg-logo="https://gitee.com/mitv/tupian/raw/master/dongfanggouwu1.png" group-title="上海",东方购物1
+https://epg.pw/stream/45ee99a8a0badc17c2a57378b6b4f076167eb740985eec8349043ca56f29927d.m3u8
 #EXTINF:-1,group-title="上海",上海动感101
 http://ls.qingting.fm/live/274.m3u8
 

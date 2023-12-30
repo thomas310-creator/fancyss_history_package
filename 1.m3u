@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://epg.deny.vip/sh/tel-epg.xml" x-tvg-url="https://epg.deny.vip/sh/tel-epg.xml"
-#EXTINF:-1,group-title="4K",Love Nrture 4K「自然」
+#EXTINF:-1,tvg-logo="" group-title="4K",Love Nrture 4K「自然」
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1,group-title="4K",Fashion 4K「时尚」
+#EXTINF:-1,tvg-logo="" group-title="4K",Fashion 4K「时尚」
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1,group-title="4K",苏州4K
+#EXTINF:-1,tvg-logo="" group-title="4K",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 
 
@@ -12,25 +12,25 @@ https://www.goodiptv.club/yy/1382741641
 
 
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.deny.vip/ws/dongfang.png" group-title="上海",东方卫视HD
-https://epg.pw/stream/ca2f2aece144ab46ee64c76f769fa36ab38326fd216dd3d9e980bf055524466f.ctv
+https://epg.pw/stream/90cce0c94c123d472e80f144fc1920c2119fec29994ac420a4a1a2e72dba1d6b.m3u8
 #EXTINF:-1 tvg-name="都市频道" tvg-logo="https://epg.deny.vip/df/都市频道.png" group-title="上海",都市频道
 https://epg.pw/stream/7b05aaa7c484b4b641fcbf62f41a7c885960fbd3ffe4a0d89d3411184afdde92.ctv
-#EXTINF:-1 tvg-id="" tvg-name="上海东方购物1" tvg-logo="https://gitee.com/mitv/tupian/raw/master/dongfanggouwu1.png" group-title="上海",东方购物1
+#EXTINF:-1 tvg-name="上海东方购物1" tvg-logo="https://gitee.com/mitv/tupian/raw/master/dongfanggouwu1.png" group-title="上海",东方购物1
 https://epg.pw/stream/45ee99a8a0badc17c2a57378b6b4f076167eb740985eec8349043ca56f29927d.m3u8
-#EXTINF:-1,group-title="上海",上海动感101
+#EXTINF:-1,tvg-logo="https://wx2.sinaimg.cn/mw2000/679d8458ly1hj42rw3f1dj20wi0wi0uk.jpg"group-title="上海",上海动感101
 http://ls.qingting.fm/live/274.m3u8
 
 
 
 
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.deny.vip/ws/dongfang.png" group-title="卫视",东方卫视HD
-https://epg.pw/stream/ca2f2aece144ab46ee64c76f769fa36ab38326fd216dd3d9e980bf055524466f.ctv
+https://epg.pw/stream/90cce0c94c123d472e80f144fc1920c2119fec29994ac420a4a1a2e72dba1d6b.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://epg.deny.vip/ws/zhejiang.png" group-title="卫视",浙江卫视HD
-http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+https://epg.pw/stream/34fc3266d2d9c1ade142379c5fea00099374808c93233d10c47a397847ef4ef1.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://epg.deny.vip/ws/hunan.png" group-title="卫视",湖南卫视HD
 http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.deny.vip/ws/jiangsu.png" group-title="卫视",江苏卫视HD
-http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/jswshd8m/8000000/mnf.m3u8
+https://epg.pw/stream/3e0ed5e0d1ff6197877752ca6c0def4aa65fd6c68bb539384e64836400697d77.m3u8
 
 
 

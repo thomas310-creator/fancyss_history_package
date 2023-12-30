@@ -31,7 +31,8 @@ https://epg.pw/stream/34fc3266d2d9c1ade142379c5fea00099374808c93233d10c47a397847
 http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.deny.vip/ws/jiangsu.png" group-title="卫视",江苏卫视HD
 https://epg.pw/stream/3e0ed5e0d1ff6197877752ca6c0def4aa65fd6c68bb539384e64836400697d77.m3u8
-
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.deny.vip/ws/shandong.png" group-title="卫视",山东卫视HD
+https://epg.pw/stream/928ec61fb7568b106f35028dcf4575c4fc9c32522617d35d026abc83ac23687c.m3u8
 
 
 
@@ -83,10 +84,9 @@ http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/9d82d158ccbf6c81800a5668fe71a63533fa828bea56?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UyNzI=,g_7,xp_5,yp_5/format,f_auto" group-title="一起看", 埋堆堆港剧日记
-https://www.goodiptv.club/huya/23903130
 
-
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港",翡翠台
+https://epg.pw/stream/f8abbdf5312cd5274ea4bc7602ae3320fb86083f7a07c8c2f08027421f54ad51.ctv
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰中文
@@ -226,8 +226,8 @@ https://www.goodiptv.club/yy/1382736856
 https://www.goodiptv.club/yy/1382736877
 #EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="电影", 鬼片 惊悚 喜剧
 https://www.goodiptv.club/yy/1351030377
-
-
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="电影", 恐怖电影
+https://epg.pw/stream/00cf6667bdc983a095a06ff06e1cecdc5f893d4173cee90c3c93405f585dfd04.ctv
 
 
 
@@ -282,7 +282,8 @@ https://www.goodiptv.club/yy/1382736843
 https://www.goodiptv.club/yy/1354932391
 
 
-
+#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/9d82d158ccbf6c81800a5668fe71a63533fa828bea56?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UyNzI=,g_7,xp_5,yp_5/format,f_auto" group-title="港剧台剧", 埋堆堆港剧日记
+https://www.goodiptv.club/huya/23903130
 #EXTINF:-1 tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2318284749.webp" group-title="港剧台剧", 公公出宫
 https://www.goodiptv.club/yy/1354936208
 #EXTINF:-1 tvg-logo="https://img3.doubanio.com/view/photo/l/public/p2578715207.webpg" group-title="港剧台剧", 碧血盐枭

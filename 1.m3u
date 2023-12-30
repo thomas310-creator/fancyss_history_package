@@ -109,6 +109,8 @@ https://tvp22.sky4k.top/index2.php
 
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="台湾",中天新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="台湾",中天新闻循环直播
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
 #EXTINF:-1 tvg-name="台视新闻" tvg-logo="" group-title="台湾",台视新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",东森财经新闻
@@ -123,35 +125,97 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="" group-title="台湾",TVBS网路新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",镜新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",民视
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",国会频道1
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",华视娱乐综合
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",中视
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",中视HD
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",中视
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",中视
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
 #EXTINF:-1 tvg-name="天才冲冲冲" tvg-logo="https://img3.doubanio.com/view/photo/l/public/p2899471382.webp" group-title="台湾",天才冲冲冲「综艺」
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",猪哥秀
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",Taiwan+
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8
 
 
 
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="国际",24小时背景音乐
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.earthtv.com/assets/images/special_button.png" group-title="国际",EarthTV
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV79.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="国际",美|新唐人亚太台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSDAR8cnsH8y27lb6qVDs2T1VU5wSecA48WAKIjLw=s176-c-k-c0x00ffffff-no-rj" group-title="国际",美|123 GO LIVE
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="国际",美|CBN NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://bkimg.cdn.bcebos.com/pic/eaf81a4c510fd9f9d72ae00e907ac32a2834349b0e06?x-bce-process=image/resize,m_lfit,w_536,limit_1/quality,Q_70" group-title="国际",美|NBC NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://scontent.fhkg3-1.fna.fbcdn.net/v/t39.30808-6/307317346_517659940369942_6559568471768946809_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=2FcqNzt0nGsAX87oFSD&_nc_ht=scontent.fhkg3-1.fna&oh=00_AfA6smCZ3sJkd69CXu9grqt-mA0pjqjmvO5eXvueh8I3ug&oe=65939909" group-title="国际",美|Times Network
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV74.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="国际",美|LIVE NOW FOX
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV909.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://bkimg.cdn.bcebos.com/pic/b64543a98226cffc1e1729e2fd525d90f603738dbc1a?x-bce-process=image/resize,m_lfit,w_536,limit_1/quality,Q_70" group-title="国际",阿拉伯|半岛新闻「英语」
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="国际",韩|THE K-POP
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="国际",韩|ARIRANG KOREA
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="国际",韩|综艺
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV79.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="国际",新加坡|CNA
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
 #EXTINF:-1 tvg-name="NHK World Japan"  tvg-logo="https://epg.pw/media/images/channel/2022/03/05/large/20220305152534604002_80.png" group-title="国际",日本|nhk world japan
 https://epg.pw/stream/32610332577749fcd80720c38e7165fdca073baffb5c1d418d452290dca56d23.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="国际",日本|ANN NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="国际",日本|ANN NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
 #EXTINF:-1 tvg-logo="" group-title="国际",日本|Tokyo Shibuya「东京涩谷」
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
+#EXTINF:-1 tvg-logo="" group-title="国际",日本|TBS NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
+#EXTINF:-1 tvg-logo="" group-title="国际",日本|HTB NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
+#EXTINF:-1 tvg-logo="" group-title="国际",日本|KANSAI NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
 #EXTINF:-1 tvg-name="qvc japan"tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021009758839_20.png" group-title="国际",日本|qvc japan[其它]
 https://epg.pw/stream/178ef81e170e7020504291d67166d2ab9b4eb67f17a4520d1107779a433a8fec.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="国际",德国|DW NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="国际",法|FRANCE 24
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="国际",土耳其|HABER TURK
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="国际",印度|INDIA TODAY
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="动画",儿童
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="动画",小猪佩奇
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="动画",动画片1
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="动画",动画片2
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="动画",DAVE AVA
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="动画",动画片3
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
+
+
 
 
 

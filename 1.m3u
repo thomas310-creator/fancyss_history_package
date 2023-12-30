@@ -15,8 +15,12 @@ https://www.goodiptv.club/yy/1382741641
 https://epg.pw/stream/90cce0c94c123d472e80f144fc1920c2119fec29994ac420a4a1a2e72dba1d6b.m3u8
 #EXTINF:-1 tvg-name="都市频道" tvg-logo="https://epg.deny.vip/df/都市频道.png" group-title="上海",都市频道
 https://epg.pw/stream/7b05aaa7c484b4b641fcbf62f41a7c885960fbd3ffe4a0d89d3411184afdde92.ctv
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="上海",崇明
+https://epg.pw/stream/6773eb2f51d2bc1c20159101314325191e4af389a039d4d56658aa3099a87cc5.ctv
 #EXTINF:-1 tvg-name="上海东方购物1" tvg-logo="https://gitee.com/mitv/tupian/raw/master/dongfanggouwu1.png" group-title="上海",东方购物1
-https://epg.pw/stream/45ee99a8a0badc17c2a57378b6b4f076167eb740985eec8349043ca56f29927d.m3u8
+https://epg.pw/stream/ba54c98006d257dfe0035ec4b1fb530ed142fbf42704fccd5a6685645069d565.ctv
+#EXTINF:-1 tvg-name="上海东方购物1" tvg-logo="https://gitee.com/mitv/tupian/raw/master/dongfanggouwu1.png" group-title="上海",东方购物2
+https://epg.pw/stream/5aa5b4de649fb189c89fb66aec32be05165e433a0a2da37536ef537eaf01e5e0.m3u8
 #EXTINF:-1,tvg-logo="https://wx2.sinaimg.cn/mw2000/679d8458ly1hj42rw3f1dj20wi0wi0uk.jpg"group-title="上海",上海动感101
 http://ls.qingting.fm/live/274.m3u8
 
@@ -32,7 +36,7 @@ http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.deny.vip/ws/jiangsu.png" group-title="卫视",江苏卫视HD
 https://epg.pw/stream/3e0ed5e0d1ff6197877752ca6c0def4aa65fd6c68bb539384e64836400697d77.m3u8
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.deny.vip/ws/shandong.png" group-title="卫视",山东卫视HD
-https://epg.pw/stream/928ec61fb7568b106f35028dcf4575c4fc9c32522617d35d026abc83ac23687c.m3u8
+
 
 
 
@@ -213,38 +217,89 @@ https://epg.pw/stream/8848575026ebd3c19258f79bc476986d87d68dd75fc6d2ae65eb99163c
 https://www.goodiptv.club/yy/1382736856
 #EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/3bf33a87e950352a4137d91e5c43fbf2b2118b56?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxMTY=,g_7,xp_5,yp_5/format,f_auto" group-title="电影", 举起手来
 https://www.goodiptv.club/yy/1382736877
-#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="电影", 鬼片 惊悚 喜剧
+#EXTINF:-1 tvg-logo="" group-title="电影", 鬼片 惊悚 喜剧
 https://www.goodiptv.club/yy/1351030377
-#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="电影", 恐怖电影
+#EXTINF:-1 tvg-logo="" group-title="电影", 恐怖电影
 https://epg.pw/stream/00cf6667bdc983a095a06ff06e1cecdc5f893d4173cee90c3c93405f585dfd04.ctv
-#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="电影", BESTTV 港片
-https://epg.pw/stream/16ed930a2dbb6f624ebb0f68188847b3c8313eb3867d58241572109ee451d826.m3u8
+#EXTINF:-1 tvg-logo="" group-title="电影", 欧美电影
+https://epg.pw/stream/7cc9d371298246354c11e969bf4a9c9c1466a81e1d264dc9631c18ca789a57f1.ctv
+#EXTINF:-1 tvg-logo="" group-title="电影", 冰冰剧场
+https://epg.pw/stream/6f771a4a66749e3a28260fcbfbf5ef1a8e485fababa1328f082096e9a8e11c4c.ctv
+#EXTINF:-1 tvg-logo="" group-title="电影", 译制电影
+https://epg.pw/stream/809c8266b8c66cd23b70a88b548ada44a37fb13594e88c5309ecda55368e42f4.ctv
+#EXTINF:-1 tvg-logo="" group-title="电影", 斗鱼电影
+https://epg.pw/stream/1fb0d249669224b083e8e645e47c59ca57d5ee1027482a02cc4a54dfbde947de.ctv
+#EXTINF:-1 tvg-logo="" group-title="电影", 解说|科幻Fans布玛
+https://epg.pw/stream/acb3a2480b5513e9df36028e52fb8a5807680954e0d73f3902f7896fba63187a.ctv
+#EXTINF:-1 tvg-logo="" group-title="电影", 解说|神羊说电影
+https://epg.pw/stream/cab4e5d3d6e56b2f537a75a334c41d19ec7eca3fd9b1e8bb489e165d7b08c424.ctv
+#EXTINF:-1 tvg-logo="" group-title="电影", 解说|电影讲解
+https://epg.pw/stream/a38328bee14baaee92174d74e3f0b62ee9fe5a4c3d2f878066fca19357b7a8ec.ctv
+#EXTINF:-1 tvg-logo="" group-title="电影", 解说|电影解说9
+https://epg.pw/stream/55910676f2ec9a2b19119433714230ed0ed40a0391bcca8ac8674ed55965e949.ctv
+#EXTINF:-1 tvg-logo="" group-title="电影", 解说|火龙果说电影
+https://epg.pw/stream/9e858d592fcd32d4522f3f21399afb48b8d6e49976ec74131259d1f0634dcda4.ctv
+#EXTINF:-1 tvg-logo="" group-title="电影", 解说|指缝里看电影
+https://epg.pw/stream/4cf9935393ed9dce550ae525e2730b86e5928c24698abbd6114004210a43ed36.ctv
 
 
 
 
 
 
+#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/9d82d158ccbf6c81800a5668fe71a63533fa828bea56?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UyNzI=,g_7,xp_5,yp_5/format,f_auto" group-title="电视剧", 港剧轮播|埋堆堆
+https://www.goodiptv.club/huya/23903130
+#EXTINF:-1 tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2318284749.webp" group-title="电视剧", 港剧|公公出宫
+https://www.goodiptv.club/yy/1354936208
+#EXTINF:-1 tvg-logo="https://img3.doubanio.com/view/photo/l/public/p2578715207.webpg" group-title="电视剧", 港剧|碧血盐枭
+https://www.goodiptv.club/yy/1354936178
+#EXTINF:-1 tvg-logo="https://img1.doubanio.com/view/photo/l/public/p1612858869.webp" group-title="电视剧", 港剧|耀舞长安
+https://www.goodiptv.club/yy/1382741640
+#EXTINF:-1 tvg-logo="https://img9.doubanio.com/view/photo/l/public/p2541956385.webp" group-title="电视剧", 施公奇案
+https://www.goodiptv.club/yy/1382749918
+#EXTINF:-1 tvg-logo="https://img1.doubanio.com/view/photo/l/public/p1612858869.webp" group-title="电视剧", 港片
+https://epg.pw/stream/d1221c73edb77a8ff625d3d77256be10320aa6d80eb6a87ccbd7313cfee396b6.ctv
+#EXTINF:-1 tvg-logo="https://img3.doubanio.com/view/photo/l/public/p2882095002.webp" group-title="电视剧",台剧|廉政英雄
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
+#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/42166d224f4a20a4f5da74009a529822730ed035?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxNTA=,g_7,xp_5,yp_5/format,f_auto" group-title="电视剧", 通天狄仁杰
+https://www.goodiptv.club/yy/1382749906
+#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/42166d224f4a20a4f5da74009a529822730ed035?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxNTA=,g_7,xp_5,yp_5/format,f_auto" group-title="电视剧", 通天狄仁杰
+https://www.goodiptv.club/yy/1354658051
+#EXTINF:-1 tvg-logo="https://img3.doubanio.com/view/photo/l/public/p2791256717.webp" group-title="电视剧", 抗日|李三枪
+https://www.goodiptv.club/yy/1354936122
+#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/63d0f703918fa0ec08fa64f2c7c04eee3d6d54fb6d8e?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UyNzI=,g_7,xp_5,yp_5/format,f_auto" group-title="电视剧",仙侠|仙剑奇侠传
+https://www.goodiptv.club/yy/1382749903
+#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/f603918fa0ec08fa195cfc7257ee3d6d54fbda83?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U5Mg==,g_7,xp_5,yp_5/format,f_auto" group-title="电视剧", 钟馗传说
+https://www.goodiptv.club/yy/1382736839
+#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/77c6a7efce1b9d16fdfa7b4d5288a38f8c5494eeceda?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxNTA=,g_7,xp_5,yp_5/format,f_auto" group-title="电视剧", 我的前半生
+https://www.goodiptv.club/yy/1382735564
+#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/6159252dd42a2834b3bec94c59b5c9ea15cebf59?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U5Mg==,g_7,xp_5,yp_5/format,f_auto" group-title="电视剧", 父母爱情
+https://www.goodiptv.club/yy/1354926650
+#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/b999a9014c086e067239aff709087bf40bd1cbfd?x-bce-process=image/resize,m_lfit,h_766,limit_1" group-title="电视剧", 生逢灿烂的日子
+https://www.goodiptv.club/yy/1382745085
+#EXTINF:-1 tvg-logo="https://img1.baidu.com/it/u=1325519254,842696141&fm=253&fmt=auto&app=138&f=JPEG?w=448&h=598" group-title="电视剧", 守望的天空
+https://www.goodiptv.club/yy/1382736843
+#EXTINF:-1 tvg-logo="https://pic7.iqiyipic.com/image/20200916/60/96/a_100096713_m_601_m7_260_360.jpg?caplist=jpg,webp,avif" group-title="电视剧", 吾儿可教
+https://www.goodiptv.club/yy/1354932391
 
 
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/69/1165692598/u1165692598kQPKiem.jpg" group-title="车生活", 66车讯
+#EXTINF:-1 tvg-logo="" group-title="生活", 美食|农家小菜
+https://epg.pw/stream/ec66d5495e9a57a921d45458b1edac8e0a5e22324aed481cf9207b889b53b40b.ctv
+#EXTINF:-1 tvg-logo="" group-title="生活", 美食|沸腾吧火锅
+https://epg.pw/stream/4eab42c35e759a0e9d0cf4d6e3884bfa1bb1be9dc940c5e11d9478bbebdaa054.ctv
+#EXTINF:-1 tvg-logo="https://p1.img.cctvpic.com/photoAlbum/vms/standard/img/2017/1/19/VSETaJ0BrYFBCc8JywCf7JP9170119.jpg" group-title="生活", 美食|舌尖上的中国第一季
+https://www.goodiptv.club/yy/1354930952
+#EXTINF:-1 tvg-logo="" group-title="生活", 瑜伽|频道呼吸
+https://epg.pw/stream/5f29896d2f4e4bef79b416ae8d8ddcb658f0f823141023b5bf73b02e6e00c5c9.m3u8
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/69/1165692598/u1165692598kQPKiem.jpg" group-title="生活", 车|66车讯
 https://www.goodiptv.club/yy/1382571192
-#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/58/1838583079/u1838583079hrFMKjO.jpg" group-title="车生活", 杀手路跑
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/58/1838583079/u1838583079hrFMKjO.jpg" group-title="生活", 车|杀手路跑
 https://www.goodiptv.club/yy/89431014
-#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/01/2181018642/u2181018642LMqGak4.png" group-title="车生活", 老司机带你开眼界
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/01/2181018642/u2181018642LMqGak4.png" group-title="生活", 车|老司机带你开眼界
 https://www.goodiptv.club/yy/1349538007
-#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/40/1834402069/u1834402069YR9Peyw.jpeg" group-title="车生活", 爱拆车
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/40/1834402069/u1834402069YR9Peyw.jpeg" group-title="生活", 车|爱拆车
 https://www.goodiptv.club/yy/54886912
-#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/79/1836792301/u1836792301cB4yuZ8.png" group-title="车生活", 我比你更懂车 你偏不信
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/79/1836792301/u1836792301cB4yuZ8.png" group-title="生活",车|我比你更懂车 你偏不信
 https://www.goodiptv.club/yy/85042287
 
 
@@ -256,53 +311,21 @@ https://www.goodiptv.club/yy/85042287
 
 
 
-#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/77c6a7efce1b9d16fdfa7b4d5288a38f8c5494eeceda?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxNTA=,g_7,xp_5,yp_5/format,f_auto" group-title="家庭情感剧", 我的前半生
-https://www.goodiptv.club/yy/1382735564
-#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/6159252dd42a2834b3bec94c59b5c9ea15cebf59?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U5Mg==,g_7,xp_5,yp_5/format,f_auto" group-title="家庭情感剧", 父母爱情
-https://www.goodiptv.club/yy/1354926650
-#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/b999a9014c086e067239aff709087bf40bd1cbfd?x-bce-process=image/resize,m_lfit,h_766,limit_1" group-title="家庭情感剧", 生逢灿烂的日子
-https://www.goodiptv.club/yy/1382745085
-#EXTINF:-1 tvg-logo="https://img1.baidu.com/it/u=1325519254,842696141&fm=253&fmt=auto&app=138&f=JPEG?w=448&h=598" group-title="家庭情感剧", 守望的天空
-https://www.goodiptv.club/yy/1382736843
-#EXTINF:-1 tvg-logo="https://pic7.iqiyipic.com/image/20200916/60/96/a_100096713_m_601_m7_260_360.jpg?caplist=jpg,webp,avif" group-title="家庭情感剧", 吾儿可教
-https://www.goodiptv.club/yy/1354932391
-
-
-#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/9d82d158ccbf6c81800a5668fe71a63533fa828bea56?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UyNzI=,g_7,xp_5,yp_5/format,f_auto" group-title="港剧台剧", 埋堆堆港剧日记
-https://www.goodiptv.club/huya/23903130
-#EXTINF:-1 tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2318284749.webp" group-title="港剧台剧", 公公出宫
-https://www.goodiptv.club/yy/1354936208
-#EXTINF:-1 tvg-logo="https://img3.doubanio.com/view/photo/l/public/p2578715207.webpg" group-title="港剧台剧", 碧血盐枭
-https://www.goodiptv.club/yy/1354936178
-#EXTINF:-1 tvg-logo="https://img1.doubanio.com/view/photo/l/public/p1612858869.webp" group-title="港剧台剧", 耀舞长安
-https://www.goodiptv.club/yy/1382741640
-#EXTINF:-1 tvg-logo="https://img3.doubanio.com/view/photo/l/public/p2882095002.webp" group-title="港剧台剧",廉政英雄
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/42166d224f4a20a4f5da74009a529822730ed035?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxNTA=,g_7,xp_5,yp_5/format,f_auto" group-title="悬疑破案剧", 通天狄仁杰
-https://www.goodiptv.club/yy/1382749906
-#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/42166d224f4a20a4f5da74009a529822730ed035?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxNTA=,g_7,xp_5,yp_5/format,f_auto" group-title="悬疑破案剧", 通天狄仁杰
-https://www.goodiptv.club/yy/1354658051
-#EXTINF:-1 tvg-logo="https://img9.doubanio.com/view/photo/l/public/p2541956385.webp" group-title="悬疑破案剧", 施公奇案
-https://www.goodiptv.club/yy/1382749918
-
-
-#EXTINF:-1 tvg-logo="https://img3.doubanio.com/view/photo/l/public/p2791256717.webp" group-title="抗战影视剧", 李三枪
-https://www.goodiptv.club/yy/1354936122
 
 
 
 
-#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/63d0f703918fa0ec08fa64f2c7c04eee3d6d54fb6d8e?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UyNzI=,g_7,xp_5,yp_5/format,f_auto" group-title="仙侠武侠剧", 仙剑奇侠传
-https://www.goodiptv.club/yy/1382749903
-#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/f603918fa0ec08fa195cfc7257ee3d6d54fbda83?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U5Mg==,g_7,xp_5,yp_5/format,f_auto" group-title="仙侠武侠剧", 钟馗传说
-https://www.goodiptv.club/yy/1382736839
 
 
 
+
+
+#EXTINF:-1 tvg-logo="" group-title="综艺", 24h欢乐
+https://epg.pw/stream/509c3cd44392ac15415966a118d94c4716da89da814927c4b723b4fbc8bc2e79.ctv
 #EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/b8389b504fc2d56285352b69784787ef76c6a6efc6a2?x-bce-process=image/resize,m_lfit,w_536,limit_1/quality,Q_70" group-title="综艺", 吐槽大会 第1季
 https://www.goodiptv.club/yy/1354936210
 #EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/b8389b504fc2d56285352b69784787ef76c6a6efc6a2?x-bce-process=image/resize,m_lfit,w_536,limit_1/quality,Q_70" group-title="综艺", 吐槽大会 第2季
@@ -387,8 +410,6 @@ http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfN
 
 
 
-#EXTINF:-1 tvg-logo="https://p1.img.cctvpic.com/photoAlbum/vms/standard/img/2017/1/19/VSETaJ0BrYFBCc8JywCf7JP9170119.jpg" group-title="纪录片", 舌尖上的中国第一季
-https://www.goodiptv.club/yy/1354930952
 
 
 
@@ -418,11 +439,11 @@ https://www.goodiptv.club/yy/1354930952
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="动画", 【陪你看】金刚葫芦娃西游记
+#EXTINF:-1 tvg-logo="" group-title="动画", 斗鱼|柯南
+https://epg.pw/stream/7d5866a3df5d2402baec5051958ec933a090c2205c3a535d6b842541406b2a73.ctv
+#EXTINF:-1 tvg-logo="" group-title="动画", 柯南
+https://epg.pw/stream/ae335b5e024f28c376253c3b9549fc3b47594c55f18457bfa210f33dc28b8b8a.ctv
+#EXTINF:-1 tvg-logo="" group-title="动画", 金刚葫芦娃西游记
 https://www.goodiptv.club/yy/1353323999
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="动画",儿童
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8

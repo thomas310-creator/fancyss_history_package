@@ -202,22 +202,11 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="国际",印度|INDIA TODAY
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="动画",儿童
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="动画",小猪佩奇
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="动画",动画片1
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="动画",动画片2
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="动画",DAVE AVA
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="动画",动画片3
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png",group-title="电影",东森洋片台
+https://epg.pw/stream/4c7a4a507c06cf73baa0fc19509363072e9b48c0d4555bafaecdbd5072bfc878.ctv
 #EXTINF:-1 tvg-name="" tvg-logo="https://img0.baidu.com/it/u=149883053,792922427&fm=253&app=138&size=w931&q=75&n=0&f=JPEG&fmt=auto&maxorilen2heic=2000000" group-title="电影",刘德华
 https://epg.pw/stream/8848575026ebd3c19258f79bc476986d87d68dd75fc6d2ae65eb99163ca4883d.ctv
 #EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="电影",国产喜剧
@@ -228,8 +217,8 @@ https://www.goodiptv.club/yy/1382736877
 https://www.goodiptv.club/yy/1351030377
 #EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="电影", 恐怖电影
 https://epg.pw/stream/00cf6667bdc983a095a06ff06e1cecdc5f893d4173cee90c3c93405f585dfd04.ctv
-
-
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="电影", BESTTV 港片
+https://epg.pw/stream/16ed930a2dbb6f624ebb0f68188847b3c8313eb3867d58241572109ee451d826.m3u8
 
 
 
@@ -259,9 +248,6 @@ https://www.goodiptv.club/yy/54886912
 https://www.goodiptv.club/yy/85042287
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="动画", 【陪你看】金刚葫芦娃西游记
-https://www.goodiptv.club/yy/1353323999
 
 
 
@@ -436,6 +422,20 @@ https://www.goodiptv.club/yy/1354930952
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="动画", 【陪你看】金刚葫芦娃西游记
+https://www.goodiptv.club/yy/1353323999
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="动画",儿童
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="动画",小猪佩奇
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="动画",动画片1
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="动画",动画片2
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="动画",DAVE AVA
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="动画",动画片3
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
 
 
 

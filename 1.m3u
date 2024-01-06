@@ -90,6 +90,8 @@ https://epg.pw/stream/cf44a2785c7168d1328f507a814e036ac817c9c7890dfe0e909eb38360
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港",翡翠台
 https://epg.pw/stream/f8abbdf5312cd5274ea4bc7602ae3320fb86083f7a07c8c2f08027421f54ad51.ctv
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港",tvb satellite jade
+https://epg.pw/stream/f2c61cf8aa34e37f1dee71709541ad802df36c1c13a73a09a21b9400f28fe742.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰中文

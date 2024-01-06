@@ -1,14 +1,12 @@
 #EXTM3U url-tvg="https://epg.deny.vip/sh/tel-epg.xml" x-tvg-url="https://epg.deny.vip/sh/tel-epg.xml"
-#EXTINF:-1,tvg-logo="" group-title="4K",Love Nrture 4K「自然」
+#EXTINF:-1,tvg-logo="" group-title="导视",Love Nrture 4K「自然」
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1,tvg-logo="" group-title="4K",Fashion 4K「时尚」
+#EXTINF:-1,tvg-logo="" group-title="导视",Fashion 4K「时尚」
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1,tvg-logo="" group-title="4K",苏州4K
+#EXTINF:-1,tvg-logo="" group-title="导视",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/09/2786099823/u2786099823JvlwBLO.jpg" group-title="4K", 开饭了大熊猫
-https://www.goodiptv.club/yy/1382741641
+#EXTINF:-1,tvg-logo="https://bkimg.cdn.bcebos.com/pic/902397dda144ad34b4d4cad8d8a20cf431ad8502?x-bce-process=image/resize,m_lfit,w_536,limit_1/quality,Q_70" group-title="导视",熊猫频道
+https://epg.pw/stream/1b477de2aff814d6b317b2b9e462342ec6a27006810376ab97580aa29d886f90.m3u8
 
 
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.deny.vip/ws/dongfang.png" group-title="上海",东方卫视HD
@@ -35,7 +33,10 @@ http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000
 https://epg.pw/stream/3e0ed5e0d1ff6197877752ca6c0def4aa65fd6c68bb539384e64836400697d77.m3u8
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.deny.vip/ws/shandong.png" group-title="卫视",山东卫视HD
 
-
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://epg.deny.vip/ws/sansha.png" group-title="卫视",三沙卫视
+https://epg.pw/stream/3473a39a4377e2f48de9cb47a24b75255f9b0eab285cdd300f7fe421440311bf.m3u8
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://epg.deny.vip/ws/bingtuan.png" group-title="卫视",兵团卫视
+https://epg.pw/stream/85e6975cbd16ed8411909474995d0973728889c2e84a98f21e3063311adb4c84.m3u8
 
 
 #EXTINF:-1 tvg-name="CCTV-1" tvg-logo="https://epg.deny.vip/cctv/CCTV-1.png" group-title="央视",CCTV-1HD
@@ -90,6 +91,8 @@ https://epg.pw/stream/cf44a2785c7168d1328f507a814e036ac817c9c7890dfe0e909eb38360
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港",翡翠台
 https://epg.pw/stream/f8abbdf5312cd5274ea4bc7602ae3320fb86083f7a07c8c2f08027421f54ad51.ctv
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港",Astro华丽台（马来西亚翡翠台）
+https://epg.pw/stream/5ae23d382ba8410974a37778a9ef7f7ab8827902709cfd986c70d435ab7e89f2.ctv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港",tvb satellite jade
 https://epg.pw/stream/f2c61cf8aa34e37f1dee71709541ad802df36c1c13a73a09a21b9400f28fe742.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯
@@ -226,7 +229,9 @@ https://epg.pw/stream/7cc9d371298246354c11e969bf4a9c9c1466a81e1d264dc9631c18ca78
 https://epg.pw/stream/17b48c0e43eb20c6e6ef27a8c0fadfeba38564bbfce7ac36378d966644510c01.ctv
 #EXTINF:-1 tvg-logo="" group-title="电影", 漫威超级英雄系列
 https://epg.pw/stream/c8b9c4a68c5990c7d9fbc325ec00ac0d63edbe45a9b5025b3c4b04bbe19283f2.ctv
-#EXTINF:-1 tvg-logo="" group-title="电影", 冰冰剧场
+#EXTINF:-1 tvg-logo="" group-title="电影", 漫威超级英雄系列
+https://epg.pw/stream/10708ae8d58954929baf3dea85834c25391cc171b46f362d2e40a15bf961d5aa.ctv
+#EXTINF:-1 tvg-logo="https://www.iqiyipic.com/common/fix/h5-aura/iqiyi-logo.png" group-title="电影", 爱奇艺1
 https://epg.pw/stream/6f771a4a66749e3a28260fcbfbf5ef1a8e485fababa1328f082096e9a8e11c4c.ctv
 #EXTINF:-1 tvg-logo="" group-title="电影", 译制电影
 https://epg.pw/stream/809c8266b8c66cd23b70a88b548ada44a37fb13594e88c5309ecda55368e42f4.ctv
@@ -305,6 +310,8 @@ https://epg.pw/stream/4eab42c35e759a0e9d0cf4d6e3884bfa1bb1be9dc940c5e11d9478bbeb
 https://www.goodiptv.club/yy/1354930952
 #EXTINF:-1 tvg-logo="" group-title="生活", 纪实|宇宙探索飞船
 https://epg.pw/stream/86825795b0f826a8f87f0218949b157d65377621e9b0b9ef89be45cd21d63cb5.ctv
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="生活",ANIMALPLANET
+https://epg.pw/stream/951e68416db9482b01ac66d87c62f2bb9cf16498e6482b5af0ef9368b33e69e3.ctv
 #EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/69/1165692598/u1165692598kQPKiem.jpg" group-title="生活", 车|66车讯
 https://www.goodiptv.club/yy/1382571192
 #EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/58/1838583079/u1838583079hrFMKjO.jpg" group-title="生活", 车|杀手路跑

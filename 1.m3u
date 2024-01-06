@@ -12,7 +12,7 @@ https://epg.pw/stream/1b477de2aff814d6b317b2b9e462342ec6a27006810376ab97580aa29d
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.deny.vip/ws/dongfang.png" group-title="上海",东方卫视HD
 https://epg.pw/stream/90cce0c94c123d472e80f144fc1920c2119fec29994ac420a4a1a2e72dba1d6b.m3u8
 #EXTINF:-1 tvg-name="都市频道" tvg-logo="https://epg.deny.vip/df/都市频道.png" group-title="上海",都市频道
-
+https://epg.pw/stream/ba0ae374a3a4b19a389049c0088580322cce39dbcc210295772013ae3cdeaefe.ctv
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="上海",崇明
 https://epg.pw/stream/6773eb2f51d2bc1c20159101314325191e4af389a039d4d56658aa3099a87cc5.ctv
 #EXTINF:-1 tvg-name="上海东方购物1" tvg-logo="https://gitee.com/mitv/tupian/raw/master/dongfanggouwu1.png" group-title="上海",东方购物1
@@ -67,7 +67,7 @@ https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV-5+" tvg-logo="https://epg.deny.vip/cctv/CCTV-5+.png" group-title="央视",,CCTV-5+ 体育赛事
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV-6" tvg-logo="https://epg.deny.vip/cctv/CCTV-6.png" group-title="央视",CCTV-6电影频道
-http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv6hd8m/8000000/mnf.m3u8
+https://epg.pw/stream/b71ed08343e2a8ce5956c8f7d80368f6f50bc863892d63443511b9f8823cbe00.m3u8
 #EXTINF:-1 tvg-name="CCTV-7" tvg-logo="https://epg.deny.vip/cctv/CCTV-7.png" group-title="央视",CCTV-7 国防军事
 https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV-8" tvg-logo="https://epg.deny.vip/cctv/CCTV-8.png" group-title="央视",CCTV-8 电视剧

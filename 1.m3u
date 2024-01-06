@@ -27,16 +27,31 @@ http://ls.qingting.fm/live/274.m3u8
 https://epg.pw/stream/90cce0c94c123d472e80f144fc1920c2119fec29994ac420a4a1a2e72dba1d6b.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://epg.deny.vip/ws/zhejiang.png" group-title="卫视",浙江卫视HD
 https://epg.pw/stream/34fc3266d2d9c1ade142379c5fea00099374808c93233d10c47a397847ef4ef1.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://epg.deny.vip/ws/zhejiang.png" group-title="卫视",浙江卫视HD
+https://epg.pw/stream/5eb50e6a4ccf96ade0f3359339ce5e069161e0ced131f108c2d641275fd673ce.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://epg.deny.vip/ws/hunan.png" group-title="卫视",湖南卫视HD
-http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
+
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.deny.vip/ws/jiangsu.png" group-title="卫视",江苏卫视HD
 https://epg.pw/stream/3e0ed5e0d1ff6197877752ca6c0def4aa65fd6c68bb539384e64836400697d77.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.deny.vip/ws/guangdong.png" group-title="卫视",广东卫视HD
+https://epg.pw/stream/88869bbe44812d4aec4de520feed223e11c309bbe9fb7024556de45e3fa92383.m3u8
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.deny.vip/ws/shandong.png" group-title="卫视",山东卫视HD
-
+https://epg.pw/stream/6e0b6e5fe80e21289c27ceeafced6800e23f6c48ade127aa20eb2712aebd2b2a.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://epg.deny.vip/ws/chongqing.png" group-title="卫视",重庆卫视HD
+https://epg.pw/stream/c6af04395898ed7d0b9e2b76e31d36cbe631f055dbea80825e169fedc3ef6ea3.m3u8
+#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://epg.deny.vip/ws/yanbian.png" group-title="卫视",延边卫视
+https://epg.pw/stream/f8b011a72bc4a208b05e644becd195a02fd6a7937bb4bacaf635def8eede2b71.m3u8
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://epg.deny.vip/ws/xizang.png" group-title="卫视",西藏卫视
+https://epg.pw/stream/b5b1ab7c0113011f8fdf6ca5db1612f9cb1219c2783c8cfe1d04acea61a388ec.m3u8
+#EXTINF:-1 tvg-name="点掌财经" tvg-logo="https://www.aniu.tv/Public/New/Head/images/logo.png?v=2022012501" group-title="卫视",点掌财经
+https://epg.pw/stream/96bec7b1f9d22ac90697af55775bf2328443600cdc5ac81952ca681c136f86f7.m3u8
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://epg.deny.vip/ws/sansha.png" group-title="卫视",三沙卫视
 https://epg.pw/stream/3473a39a4377e2f48de9cb47a24b75255f9b0eab285cdd300f7fe421440311bf.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://epg.deny.vip/ws/bingtuan.png" group-title="卫视",兵团卫视
 https://epg.pw/stream/85e6975cbd16ed8411909474995d0973728889c2e84a98f21e3063311adb4c84.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-name="CCTV-1" tvg-logo="https://epg.deny.vip/cctv/CCTV-1.png" group-title="央视",CCTV-1HD
@@ -93,6 +108,8 @@ https://epg.pw/stream/cf44a2785c7168d1328f507a814e036ac817c9c7890dfe0e909eb38360
 https://epg.pw/stream/f8abbdf5312cd5274ea4bc7602ae3320fb86083f7a07c8c2f08027421f54ad51.ctv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港",Astro华丽台（马来西亚翡翠台）
 https://epg.pw/stream/5ae23d382ba8410974a37778a9ef7f7ab8827902709cfd986c70d435ab7e89f2.ctv
+#EXTINF:-1 tvg-logo="" group-title="香港",TVB经典
+https://epg.pw/stream/b7fe9f6f105e8c935f6883e77e5762cb75a03043f116c050a0f36c205e675a93.ctv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港",tvb satellite jade
 https://epg.pw/stream/f2c61cf8aa34e37f1dee71709541ad802df36c1c13a73a09a21b9400f28fe742.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯
@@ -153,6 +170,13 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",緯來日本
+rtmp://9sv2.mine.nu:1935/sat/tv771
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",緯來體育
+rtmp://9sv2.mine.nu:1935/sat/tv721
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",華視
+rtmp://9sv2.mine.nu:1935/sat/tv111
+
 
 
 
@@ -223,6 +247,10 @@ https://www.goodiptv.club/yy/1382736856
 https://www.goodiptv.club/yy/1382736877
 #EXTINF:-1 tvg-logo="" group-title="电影", 鬼片 惊悚 喜剧
 https://www.goodiptv.club/yy/1351030377
+#EXTINF:-1 tvg-logo="" group-title="电影", 惊悚 灾难片
+https://epg.pw/stream/30259fe0c62a1df39306558bc708c149f09092ea7dd815bf49fd3ad3bc6d73be.ctv
+EXTINF:-1 tvg-logo="" group-title="电影", 惊悚片
+https://epg.pw/stream/45f9c627c30e721a4abac6a201cb94db139d8bc9f8408612944af52ae4f0337e.ctv
 #EXTINF:-1 tvg-logo="" group-title="电影", 欧美电影
 https://epg.pw/stream/7cc9d371298246354c11e969bf4a9c9c1466a81e1d264dc9631c18ca789a57f1.ctv
 #EXTINF:-1 tvg-logo="" group-title="电影", 变形金刚
@@ -233,6 +261,8 @@ https://epg.pw/stream/c8b9c4a68c5990c7d9fbc325ec00ac0d63edbe45a9b5025b3c4b04bbe1
 https://epg.pw/stream/10708ae8d58954929baf3dea85834c25391cc171b46f362d2e40a15bf961d5aa.ctv
 #EXTINF:-1 tvg-logo="https://www.iqiyipic.com/common/fix/h5-aura/iqiyi-logo.png" group-title="电影", 爱奇艺1
 https://epg.pw/stream/6f771a4a66749e3a28260fcbfbf5ef1a8e485fababa1328f082096e9a8e11c4c.ctv
+#EXTINF:-1 tvg-logo="" group-title="电影", 斗鱼电影
+https://epg.pw/stream/02d1fb76a8e05d628275f54501e4107c30c5228849c0e602cdf93467512dee69.ctv
 #EXTINF:-1 tvg-logo="" group-title="电影", 译制电影
 https://epg.pw/stream/809c8266b8c66cd23b70a88b548ada44a37fb13594e88c5309ecda55368e42f4.ctv
 #EXTINF:-1 tvg-logo="" group-title="电影", 斗鱼电影

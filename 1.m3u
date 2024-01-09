@@ -10,7 +10,7 @@ https://epg.pw/stream/1b477de2aff814d6b317b2b9e462342ec6a27006810376ab97580aa29d
 
 
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.deny.vip/ws/dongfang.png" group-title="上海",东方卫视HD
-
+http://php.jdshipin.com:8880/bst.php?id=dfws8m/8000000
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.deny.vip/df/东方影视.png" group-title="上海",东方影视HD
 http://php.jdshipin.com:8880/bst.php?id=dfyshd8m/8000000
 #EXTINF:-1 tvg-name="都市频道" tvg-logo="https://epg.deny.vip/df/都市频道.png" group-title="上海",都市频道
@@ -38,32 +38,80 @@ http://ls.qingting.fm/live/274.m3u8
 
 
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.deny.vip/ws/dongfang.png" group-title="卫视",东方卫视HD
-
+http://php.jdshipin.com:8880/bst.php?id=dfws8m/8000000
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://epg.deny.vip/ws/zhejiang.png" group-title="卫视",浙江卫视HD
 https://epg.pw/stream/5eb50e6a4ccf96ade0f3359339ce5e069161e0ced131f108c2d641275fd673ce.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://epg.deny.vip/ws/hunan.png" group-title="卫视",湖南卫视HD
 
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.deny.vip/ws/jiangsu.png" group-title="卫视",江苏卫视HD
-
+http://php.jdshipin.com:8880/bst.php?id=jsws8m/8000000
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.deny.vip/ws/beijing.png" group-title="卫视",北京卫视HD
+http://php.jdshipin.com:8880/bst.php?id=bjws8m/8000000
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.deny.vip/ws/shenzhen.png" group-title="卫视",深圳卫视HD
+http://php.jdshipin.com:8880/bst.php?id=szws8m/8000000
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://epg.deny.vip/ws/dongnan.png" group-title="卫视",东南卫视HD
+http://php.jdshipin.com:8880/bst.php?id=dnws8m/8000000
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.deny.vip/ws/guangdong.png" group-title="卫视",广东卫视HD
 https://epg.pw/stream/88869bbe44812d4aec4de520feed223e11c309bbe9fb7024556de45e3fa92383.m3u8
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://epg.deny.vip/ws/guangxi.png" group-title="卫视",广西卫视HD
+
+#EXTINF:-1  tvg-name="云南卫视" tvg-logo="https://epg.deny.vip/ws/yunnan.png" group-title="卫视",云南卫视HD
+
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://epg.deny.vip/ws/jiangxi.png" group-title="卫视",江西卫视HD
+http://php.jdshipin.com:8880/bst.php?id=jxws8m/8000000
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://epg.deny.vip/ws/anhui.png" group-title="卫视",安徽卫视HD
+http://php.jdshipin.com:8880/bst.php?id=ahws8m/8000000
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://epg.deny.vip/ws/tianjin.png" group-title="卫视",天津卫视HD
+http://php.jdshipin.com:8880/bst.php?id=tjws8m/8000000
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://epg.deny.vip/ws/heilongjiang.png" group-title="卫视",黑龙江卫视HD
+http://php.jdshipin.com:8880/bst.php?id=hljws8m/8000000
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://epg.deny.vip/ws/jilin.png" group-title="卫视",吉林卫视HD
+
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://epg.deny.vip/ws/liaoning.png" group-title="卫视",辽宁卫视HD
+http://php.jdshipin.com:8880/bst.php?id=lnws8m/8000000
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://epg.deny.vip/ws/neimeng.png" group-title="卫视",内蒙古卫视
+
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://epg.deny.vip/ws/henan.png" group-title="卫视",河南卫视HD
+
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://epg.deny.vip/ws/hebei.png" group-title="卫视",河北卫视HD
+
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.deny.vip/ws/shandong.png" group-title="卫视",山东卫视HD
 https://epg.pw/stream/6e0b6e5fe80e21289c27ceeafced6800e23f6c48ade127aa20eb2712aebd2b2a.m3u8
+
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://epg.deny.vip/ws/hubei.png" group-title="卫视",湖北卫视HD
+
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://epg.deny.vip/ws/chongqing.png" group-title="卫视",重庆卫视HD
 
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://epg.deny.vip/ws/gansu.png" group-title="卫视",甘肃卫视HD
+
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://epg.deny.vip/ws/qinghai.png" group-title="卫视",青海卫视HD
+
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://epg.deny.vip/ws/ningxia.png" group-title="卫视",宁夏卫视
+
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://epg.deny.vip/ws/shanxi_.png" group-title="卫视",山西卫视
+
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://epg.deny.vip/ws/shanxi.png" group-title="卫视",陕西卫视
+
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://epg.deny.vip/ws/xinjiang.png" group-title="卫视",新疆卫视
+
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://epg.deny.vip/ws/sichuan.png" group-title="卫视",四川卫视HD
+http://php.jdshipin.com:8880/bst.php?id=scws8m/8000000
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://epg.deny.vip/ws/guizhou.png" group-title="卫视",贵州卫视HD
+http://php.jdshipin.com:8880/bst.php?id=gzws8m/8000000
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://epg.deny.vip/ws/yanbian.png" group-title="卫视",延边卫视
 https://epg.pw/stream/f8b011a72bc4a208b05e644becd195a02fd6a7937bb4bacaf635def8eede2b71.m3u8
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://epg.deny.vip/ws/hainan.png" group-title="卫视",海南卫视HD
+
 #EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://epg.112114.xyz/logo/海峡卫视.png" group-title="卫视",海峡卫视
 http://php.jdshipin.com:8880/bst.php?id=hxwshd4m/4000000
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://epg.deny.vip/ws/xizang.png" group-title="卫视",西藏卫视
 https://epg.pw/stream/b5b1ab7c0113011f8fdf6ca5db1612f9cb1219c2783c8cfe1d04acea61a388ec.m3u8
-#EXTINF:-1 tvg-name="点掌财经" tvg-logo="https://www.aniu.tv/Public/New/Head/images/logo.png?v=2022012501" group-title="卫视",点掌财经
-https://epg.pw/stream/96bec7b1f9d22ac90697af55775bf2328443600cdc5ac81952ca681c136f86f7.m3u8
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://epg.deny.vip/ws/sansha.png" group-title="卫视",三沙卫视
 
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://epg.deny.vip/ws/bingtuan.png" group-title="卫视",兵团卫视
 https://epg.pw/stream/85e6975cbd16ed8411909474995d0973728889c2e84a98f21e3063311adb4c84.m3u8
-
+#EXTINF:-1 tvg-name="点掌财经" tvg-logo="https://www.aniu.tv/Public/New/Head/images/logo.png?v=2022012501" group-title="卫视",点掌财经
+https://epg.pw/stream/96bec7b1f9d22ac90697af55775bf2328443600cdc5ac81952ca681c136f86f7.m3u8
 
 
 
@@ -100,7 +148,7 @@ https://epg.pw/stream/fc939113e81b8c3c09a430f2d5aecf985c98d73658e4314d70292b2f53
 
 #EXTINF:-1 tvg-name="CCTV-15" tvg-logo="https://epg.deny.vip/cctv/CCTV-15.png" group-title="央视",CCTV-15HD
 
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16-4K
+#EXTINF:-1 tvg-name="CCTV-16" tvg-logo="https://epg.deny.vip/cctv/CCTV-16.png" group-title="央视",CCTV-16 4K
 http://php.jdshipin.com:8880/bst.php?id=cctv16hd4k/15000000
 #EXTINF:-1 tvg-name="CCTV-17" tvg-logo="https://epg.deny.vip/cctv/CCTV-17.png" group-title="央视",CCTV-17 农业农村
 
@@ -256,43 +304,43 @@ https://epg.pw/stream/7cc9d371298246354c11e969bf4a9c9c1466a81e1d264dc9631c18ca78
 https://epg.pw/stream/17b48c0e43eb20c6e6ef27a8c0fadfeba38564bbfce7ac36378d966644510c01.ctv
 #EXTINF:-1 tvg-logo="" group-title="电影", 漫威超级英雄系列
 https://epg.pw/stream/c8b9c4a68c5990c7d9fbc325ec00ac0d63edbe45a9b5025b3c4b04bbe19283f2.ctv
-#EXTINF:-1 tvg-logo="" group-title="电影", 斗鱼|复仇者联盟
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/bfe36feaa6ab43019bce066ec53896ca_big.jpg" group-title="电影", 斗鱼|漫威主线剧情 最佳观影顺序
 http://epg.112114.xyz/douyu/6140589
-#EXTINF:-1 tvg-logo="" group-title="电影", 斗鱼|欧美房
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202310/15e855fa31e94ca3862f80c2337f0e3c_big.jpg" group-title="电影", 斗鱼|欧美房 科幻 动作 经典 喜剧
 http://epg.112114.xyz/douyu/20415
-#EXTINF:-1 tvg-logo="" group-title="电影", 斗鱼|宇哥电影
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/024/38/81/44_avatar_big.jpg" group-title="电影", 斗鱼|宇哥电影
 http://epg.112114.xyz/douyu/413573
 #EXTINF:-1 tvg-logo="" group-title="电影", 斗鱼|华语房
 http://epg.112114.xyz/douyu/122402
-#EXTINF:-1 tvg-logo="" group-title="电影", 斗鱼|粤语房
+#EXTINF:-1 tvg-logo="" group-title="电影", 斗鱼|粤语房  周星驰
 http://epg.112114.xyz/douyu/6566671
-#EXTINF:-1 tvg-logo="" group-title="电影", 斗鱼|欧美大片1
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201708/11/15/ce5b56c162e56be3c62c689f42629198_big.jpg" group-title="电影", 斗鱼|欧美大片1
 http://epg.112114.xyz/douyu/2793084
-#EXTINF:-1 tvg-logo="" group-title="电影", 斗鱼|电影1厅（欧美）
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202002/62a2bfb18ccb4fb5a444847370f32096_big.jpg" group-title="电影", 斗鱼|【贝爷1厅】欧美 科幻 动作 灾难 经典
 http://epg.112114.xyz/douyu/252802
-#EXTINF:-1 tvg-logo="" group-title="电影", 斗鱼|电影2厅（欧美）
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201911/b36e20eb35e64a76b217450b9f06004b_big.jpg" group-title="电影", 斗鱼|【贝爷2厅】欧美 日韩 国产
 http://epg.112114.xyz/douyu/36337
-#EXTINF:-1 tvg-logo="" group-title="电影", 斗鱼|IMAX厅
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202002/88d304d4031047a482cfc165f42b7938_big.jpg" group-title="电影", 斗鱼|【贝爷IMAX厅】60帧 科幻 动作 经典
 http://epg.112114.xyz/douyu/4332
-#EXTINF:-1 tvg-logo="" group-title="电影", 斗鱼|豆瓣高评分电影
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202008/3c7aed7c29fb455fbe369a1a383c7628_big.jpg" group-title="电影", 斗鱼|豆瓣高评分电影
 http://epg.112114.xyz/douyu/8770422
-#EXTINF:-1 tvg-logo="" group-title="电影", 斗鱼|刀刀剧场
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201909/13a0b26f642a4231ad377040d1c58d07_big.jpg" group-title="电影", 斗鱼|【伊太刀刀】60帧 蓝光原画
 http://epg.112114.xyz/douyu/747764
 #EXTINF:-1 tvg-logo="" group-title="电影", 斗鱼|冰冰小剧场
 https://epg.pw/stream/6f771a4a66749e3a28260fcbfbf5ef1a8e485fababa1328f082096e9a8e11c4c.ctv
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/4c2d06fdda5f40e28e5ef026aed2abd1_big.jpg" group-title="电影", 斗鱼|怡寶剧场
 http://epg.112114.xyz/douyu/434971
-#EXTINF:-1 tvg-logo="" group-title="电影", 斗鱼|斗鱼电影1
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201905/9293b975b9f94592ae06e32240109292_big.jpg" group-title="电影", 斗鱼|恐怖 丧尸 鬼片 灾难科幻
 http://epg.112114.xyz/douyu/263824
 #EXTINF:-1 tvg-logo="" group-title="电影", 斗鱼|吃米滴的虫
 http://epg.112114.xyz/douyu/315457
-#EXTINF:-1 tvg-logo="" group-title="电影", 斗鱼|斗鱼电影3
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201805/20743595471d57653a0e3a09a018d007_big.jpg" group-title="电影", 斗鱼|粤语【周星驰】【林正英】
 http://epg.112114.xyz/douyu/5033502
-#EXTINF:-1 tvg-logo="" group-title="电影", 斗鱼|哈利波特
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201912/ac402708ee744dfa8c3b5fd030bd78b9_big.jpg" group-title="电影", 斗鱼|豆瓣高评分电影
 http://epg.112114.xyz/douyu/52787
-#EXTINF:-1 tvg-logo="" group-title="电影", 斗鱼|哈利波特
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/07bba4672f144b8f94cd774416e3da98_big.jpg" group-title="电影", 斗鱼|哈利波特
 http://epg.112114.xyz/douyu/8814650
-#EXTINF:-1 tvg-logo="" group-title="电影", 斗鱼|斗鱼电影4
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202310/047b303df2634c7f8b1058f25c45f2ed_big.jpg" group-title="电影", 斗鱼|小宇60帧
 http://epg.112114.xyz/douyu/323876
 #EXTINF:-1 tvg-logo="" group-title="电影", 哈利波特
 https://epg.pw/stream/02d1fb76a8e05d628275f54501e4107c30c5228849c0e602cdf93467512dee69.ctv

@@ -6,7 +6,7 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 #EXTINF:-1 tvg-logo="" group-title="导视",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/902397dda144ad34b4d4cad8d8a20cf431ad8502?x-bce-process=image/resize,m_lfit,w_536,limit_1/quality,Q_70" group-title="导视",熊猫频道
-https://epg.pw/stream/1b477de2aff814d6b317b2b9e462342ec6a27006810376ab97580aa29d886f90.m3u8
+
 
 
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.deny.vip/ws/dongfang.png" group-title="上海",东方卫视HD
@@ -170,7 +170,7 @@ https://epg.pw/stream/cf44a2785c7168d1328f507a814e036ac817c9c7890dfe0e909eb38360
 
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港",翡翠台
-https://epg.pw/stream/f8abbdf5312cd5274ea4bc7602ae3320fb86083f7a07c8c2f08027421f54ad51.ctv
+
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港",Astro华丽台（马来西亚翡翠台）
 https://epg.pw/stream/5ae23d382ba8410974a37778a9ef7f7ab8827902709cfd986c70d435ab7e89f2.ctv
 #EXTINF:-1 tvg-logo="" group-title="香港",TVB经典
@@ -217,34 +217,22 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="" group-title="台湾",TVBS网路新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",镜新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",民视
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",国会频道1
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",华视娱乐综合
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",中视HD
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",中视
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",MIT
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",中视
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
 #EXTINF:-1 tvg-name="天才冲冲冲" tvg-logo="https://img3.doubanio.com/view/photo/l/public/p2899471382.webp" group-title="台湾",天才冲冲冲「综艺」
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",猪哥秀
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",Taiwan+
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",台
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",中视
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",緯來日本
-rtmp://9sv2.mine.nu:1935/sat/tv771
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",緯來體育
-rtmp://9sv2.mine.nu:1935/sat/tv721
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",華視
-rtmp://9sv2.mine.nu:1935/sat/tv111
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",華視
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 
@@ -382,10 +370,6 @@ https://epg.pw/stream/bc5e8a0763fe0e9bdedafff924dd93157e1553b2dd9ae44b0272a49dd9
 https://epg.pw/stream/7b6106c0ffbedf80c575ecfd7cb4b090a75eeaaeeccfb86631d82d1013a2dcb8.ctv
 #EXTINF:-1 tvg-logo="" group-title="电视剧", 港剧|法证先锋3
 https://epg.pw/stream/8999135d4e7404a58be1748b5db9b86986222bef8ce54be1f1fb8ea974da46f7.ctv
-#EXTINF:-1 tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2318284749.webp" group-title="电视剧", 港剧|公公出宫
-https://www.goodiptv.club/yy/1354936208
-#EXTINF:-1 tvg-logo="https://img3.doubanio.com/view/photo/l/public/p2578715207.webpg" group-title="电视剧", 港剧|碧血盐枭
-https://www.goodiptv.club/yy/1354936178
 #EXTINF:-1 tvg-logo="https://img1.doubanio.com/view/photo/l/public/p1612858869.webp" group-title="电视剧", 港剧|耀舞长安
 https://www.goodiptv.club/yy/1382741640
 #EXTINF:-1 tvg-logo="https://img9.doubanio.com/view/photo/l/public/p2541956385.webp" group-title="电视剧", 施公奇案
@@ -398,8 +382,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
 http://php.jdshipin.com:8880/bst.php?id=rmjc8m/8000000
 #EXTINF:-1 tvg-name="谍战剧场" tvg-logo="https://epg.112114.xyz/logo/谍战剧场.png" group-title="电视剧",谍战剧场
 http://php.jdshipin.com:8880/bst.php?id=dzjc8m/8000000
-#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/42166d224f4a20a4f5da74009a529822730ed035?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxNTA=,g_7,xp_5,yp_5/format,f_auto" group-title="电视剧", 通天狄仁杰
-https://www.goodiptv.club/yy/1382749906
 #EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/42166d224f4a20a4f5da74009a529822730ed035?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxNTA=,g_7,xp_5,yp_5/format,f_auto" group-title="电视剧", 通天狄仁杰
 https://www.goodiptv.club/yy/1354658051
 #EXTINF:-1 tvg-logo="https://img3.doubanio.com/view/photo/l/public/p2791256717.webp" group-title="电视剧", 抗日|李三枪

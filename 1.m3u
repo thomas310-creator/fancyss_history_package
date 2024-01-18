@@ -670,7 +670,7 @@ http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001186/1.m3u8
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001221/1.m3u8
 #EXTINF:-1 tvg-name="CCTV-5" tvg-logo="https://epg.deny.vip/cctv/CCTV-5.png" group-title="央视IPV6",CCTV-5 体育
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001187/1.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",cctv 5+ 体育赛事
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视IPV6",cctv 5+ 体育赛事
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226253/1.m3u8
 #EXTINF:-1 tvg-name="CCTV-6" tvg-logo="https://epg.deny.vip/cctv/CCTV-6.png" group-title="央视IPV6",CCTV-6 电影频道
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001188/1.m3u8

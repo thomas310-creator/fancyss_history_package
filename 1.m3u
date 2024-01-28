@@ -815,41 +815,41 @@ http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226405/1.m3u8
 
 
 #EXTINF:-1 tvg-name="CCTV-1" tvg-logo="https://epg.deny.vip/cctv/CCTV-1.png" group-title="央视IPV6",CCTV-1HD 综合
-http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001022/1.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
 #EXTINF:-1 tvg-name="CCTV-2" tvg-logo="https://epg.deny.vip/cctv/CCTV-2.png" group-title="央视IPV6",CCTV-2HD 财经
-http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001220/1.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 #EXTINF:-1 tvg-name="CCTV-3" tvg-logo="https://epg.deny.vip/cctv/CCTV-3.png" group-title="央视IPV6",CCTV-3HD 文艺
-http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001186/1.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
 #EXTINF:-1 tvg-name="CCTV-4" tvg-logo="https://epg.deny.vip/cctv/CCTV-4.png" group-title="央视IPV6",CCTV-4HD 中文国际
-http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001221/1.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
 #EXTINF:-1 tvg-name="CCTV-5" tvg-logo="https://epg.deny.vip/cctv/CCTV-5.png" group-title="央视IPV6",CCTV-5 体育
-http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001187/1.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视IPV6",cctv 5+ 体育赛事
-http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226253/1.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
 #EXTINF:-1 tvg-name="CCTV-6" tvg-logo="https://epg.deny.vip/cctv/CCTV-6.png" group-title="央视IPV6",CCTV-6 电影频道
-http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001188/1.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226011/1.m3u8
 #EXTINF:-1 tvg-name="CCTV-7" tvg-logo="https://epg.deny.vip/cctv/CCTV-7.png" group-title="央视IPV6",CCTV-7 国防军事
-http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001236/1.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
 #EXTINF:-1 tvg-name="CCTV-8" tvg-logo="https://epg.deny.vip/cctv/CCTV-8.png" group-title="央视IPV6",CCTV-8 电视剧
-http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001189/1.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
 #EXTINF:-1 tvg-name="CCTV-9" tvg-logo="https://epg.deny.vip/cctv/CCTV-9.png" group-title="央视IPV6",CCTV-9 纪录
-http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001237/1.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
 #EXTINF:-1 tvg-name="CCTV-10" tvg-logo="https://epg.deny.vip/cctv/CCTV-10.png" group-title="央视IPV6",CCTV-10 科教
-http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001238/1.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
 #EXTINF:-1 tvg-name="CCTV-11" tvg-logo="https://epg.deny.vip/cctv/CCTV-11.png" group-title="央视IPV6",CCTV-11HD 戏曲
-http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001309/1.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8
 #EXTINF:-1 tvg-name="CCTV-12" tvg-logo="https://epg.deny.vip/cctv/CCTV-12.png" group-title="央视IPV6",CCTV-12HD 社会与法
-http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001239/1.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/1.m3u8
 #EXTINF:-1 tvg-name="CCTV-13" tvg-logo="https://epg.deny.vip/cctv/CCTV-13.png" group-title="央视IPV6",CCTV-13HD 新闻
-http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001328/1.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 #EXTINF:-1 tvg-name="CCTV-14" tvg-logo="https://epg.deny.vip/cctv/CCTV-14.png" group-title="央视IPV6",CCTV-14HD 少儿
-http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001240/1.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
 #EXTINF:-1 tvg-name="CCTV-15" tvg-logo="https://epg.deny.vip/cctv/CCTV-15.png" group-title="央视IPV6",CCTV-15HD 音乐
-http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001338/1.m3u8
-#EXTINF:-1 tvg-name="CCTV-16" tvg-logo="https://epg.deny.vip/cctv/CCTV-16.png" group-title="央视IPV6",CCTV-16 4K
-http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001258/1.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
+#EXTINF:-1 tvg-name="CCTV-16" tvg-logo="https://epg.deny.vip/cctv/CCTV-16.png" group-title="央视IPV6",CCTV-16 奥林匹克
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 #EXTINF:-1 tvg-name="CCTV-17" tvg-logo="https://epg.deny.vip/cctv/CCTV-17.png" group-title="央视IPV6",CCTV-17 农业农村
-http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001241/1.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视IPV6",兵器科技
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="央视IPV6",怀旧剧场

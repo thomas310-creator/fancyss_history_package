@@ -42,7 +42,7 @@ http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001199/1.m3u8
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001196/1.m3u8
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://epg.deny.vip/df/哈哈炫动.png" group-title="上海",哈哈炫动HD
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001232/1.m3u8
-#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.deny.vip/df/乐游.png" group-title="上海IPV6",乐游HD
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.deny.vip/df/乐游.png" group-title="上海",乐游HD
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001200/1.m3u8
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://epg.deny.vip/df/法治天地.png" group-title="上海",法治天地HD
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001195/1.m3u8
@@ -56,7 +56,7 @@ http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001308/1.m3u8
 http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226691/1.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://epg.112114.xyz/logo/上海东方购物.png" group-title="上海",上海东方购物2
 http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226711/1.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://epg.112114.xyz/logo/上海东方购物.png" group-title="上海IPV6",上海东方购物3
+#EXTINF:-1 tvg-name="" tvg-logo="https://epg.112114.xyz/logo/上海东方购物.png" group-title="上海",上海东方购物3
 http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226622/1.m3u8
 
 
@@ -77,7 +77,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001342/index.m3
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225950/index.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.deny.vip/ws/guangdong.png" group-title="卫视",广东卫视HD
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://epg.deny.vip/ws/guangxi.png" group-title="卫视IPV6",广西卫视HD
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://epg.deny.vip/ws/guangxi.png" group-title="卫视",广西卫视HD
 http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/ott.mobaibox.com/PLTV/4/224/3221228183/index.m3u8
 #EXTINF:-1  tvg-name="云南卫视" tvg-logo="https://epg.deny.vip/ws/yunnan.png" group-title="卫视",云南卫视HD
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001046/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -214,7 +214,7 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 
 #EXTINF:-1 tvg-name="中国教育-4" tvg-logo="https://epg.deny.vip/cctv/CETV-4.png" group-title="央视",中国教育-4HD
 
-#EXTINF:-1 tvg-name="" tvg-logo="g" group-title="央视IPV6",CCTV-8K超高清
+#EXTINF:-1 tvg-name="" tvg-logo="g" group-title="央视",CCTV-8K超高清
 http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=
 
 #电视剧
@@ -615,97 +615,97 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
 
 
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="其他IPV6",凤凰中文
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="其他",凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="其他IPV6",凤凰资讯
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="其他",凤凰资讯
 http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="其他IPV6",凤凰香港
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="其他",凤凰香港
 http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC3.pn" group-title="其他IPV6",CHC动作电影
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC3.pn" group-title="其他",CHC动作电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC2.png" group-title="其他IPV6",CHC家庭影院
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC2.png" group-title="其他",CHC家庭影院
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC1.png" group-title="其他IPV6",CHC高清电影
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC1.png" group-title="其他",CHC高清电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1  tvg-name="黑莓电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hmdy.png" group-title="其他IPV6",黑莓电影
+#EXTINF:-1  tvg-name="黑莓电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hmdy.png" group-title="其他",黑莓电影
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
-#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/NEWTVCJDY.jpg" group-title="其他IPV6",Newtv-超级电影
+#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/NEWTVCJDY.jpg" group-title="其他",Newtv-超级电影
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="其他IPV6",超级综艺
+#EXTINF:-1 tvg-logo="" group-title="其他",超级综艺
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="其他IPV6",超级体育
+#EXTINF:-1 tvg-logo="" group-title="其他",超级体育
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="其他IPV6",超级电视剧
+#EXTINF:-1 tvg-logo="" group-title="其他",超级电视剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="其他IPV6",武博世界
+#EXTINF:-1 tvg-logo="" group-title="其他",武博世界
 http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw2554338791_49940138/ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="其他IPV6",中国功夫
+#EXTINF:-1 tvg-logo="" group-title="其他",中国功夫
 http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw1934355864_2070028581/ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="其他IPV6",军旅剧场
+#EXTINF:-1 tvg-logo="" group-title="其他",军旅剧场
 http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1807611386_-262631246/ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="其他IPV6",炫舞未来
+#EXTINF:-1 tvg-logo="" group-title="其他",炫舞未来
 http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/wh7f454c46tw2582593423_1721070986/ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="其他IPV6",潮妈辣婆
+#EXTINF:-1 tvg-logo="" group-title="其他",潮妈辣婆
 http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw1705588260_46164741/ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="其他IPV6",精品体育
+#EXTINF:-1 tvg-logo="" group-title="其他",精品体育
 http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw2797725038_-2054878207/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="其他IPV6",精品纪录
+#EXTINF:-1 tvg-logo="" group-title="其他",精品纪录
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw2837435881_530071425/ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="其他IPV6",家庭剧场
+#EXTINF:-1 tvg-logo="" group-title="其他",家庭剧场
 http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw3441504651_1879058580/ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="其他IPV6",精品大剧
+#EXTINF:-1 tvg-logo="" group-title="其他",精品大剧
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw2817459161_-1430429466/ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="其他IPV6",军事评论
+#EXTINF:-1 tvg-logo="" group-title="其他",军事评论
 http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw3373254713_-1111569189/ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="其他IPV6",明星大片
+#EXTINF:-1 tvg-logo="" group-title="其他",明星大片
 http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw2856695654_946966165/ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="其他IPV6",东北热剧
+#EXTINF:-1 tvg-logo="" group-title="其他",东北热剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="其他IPV6",欢乐剧场
+#EXTINF:-1 tvg-logo="" group-title="其他",欢乐剧场
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1  tvg-name="求索纪录" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo1.png" group-title="其他IPV6",求索纪录
+#EXTINF:-1  tvg-name="求索纪录" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo1.png" group-title="其他",求索纪录
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
-#EXTINF:-1  tvg-name="求索科学" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo2.png" group-title="其他IPV6",求索科学
+#EXTINF:-1  tvg-name="求索科学" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo2.png" group-title="其他",求索科学
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="求索动物" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo3.png" group-title="其他IPV6",求索动物
+#EXTINF:-1 tvg-name="求索动物" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo3.png" group-title="其他",求索动物
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="求索生活" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo4.png" group-title="其他IPV6",求索生活
+#EXTINF:-1 tvg-name="求索生活" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo4.png" group-title="其他",求索生活
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="中国天气" tvg-logo="https://epg.deny.vip/df/中国天气.png" group-title="其他IPV6",中国天气
+#EXTINF:-1 tvg-name="中国天气" tvg-logo="https://epg.deny.vip/df/中国天气.png" group-title="其他",中国天气
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001102/index.m3u8
-#EXTINF:-1 tvg-name="家庭理财" tvg-logo="https://epg.deny.vip/df/家庭理财.png" group-title="其他IPV6",家庭理财
+#EXTINF:-1 tvg-name="家庭理财" tvg-logo="https://epg.deny.vip/df/家庭理财.png" group-title="其他",家庭理财
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001278/index.m3u8
-#EXTINF:-1 tvg-name="财富天下" tvg-logo="https://epg.deny.vip/df/财富天下.png" group-title="其他IPV6",财富天下
+#EXTINF:-1 tvg-name="财富天下" tvg-logo="https://epg.deny.vip/df/财富天下.png" group-title="其他",财富天下
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001219/index.m3u8
-#EXTINF:-1 tvg-name="茶频道" tvg-logo="https://epg.deny.vip/df/茶频道.png" group-title="其他IPV6",茶频道HD
+#EXTINF:-1 tvg-name="茶频道" tvg-logo="https://epg.deny.vip/df/茶频道.png" group-title="其他",茶频道HD
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001234/1.m3u8
-#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://epg.deny.vip/df/金鹰纪实.png" group-title="其他IPV6",金鹰纪实HD
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://epg.deny.vip/df/金鹰纪实.png" group-title="其他",金鹰纪实HD
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001230/1.m3u8
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://epg.deny.vip/df/快乐垂钓.png" group-title="其他IPV6",快乐垂钓HD
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://epg.deny.vip/df/快乐垂钓.png" group-title="其他",快乐垂钓HD
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001235/1.m3u8
-#EXTINF:-1 tvg-name="纪实科教" tvg-logo="" group-title="其他IPV6",北京纪实科教
+#EXTINF:-1 tvg-name="纪实科教" tvg-logo="" group-title="其他",北京纪实科教
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hmdh.png" group-title="其他IPV6",黑莓动画
+#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hmdh.png" group-title="其他",黑莓动画
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://epg.deny.vip/df/卡酷少儿.png" group-title="其他IPV6",北京卡酷少儿HD
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://epg.deny.vip/df/卡酷少儿.png" group-title="其他",北京卡酷少儿HD
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001245/1.m3u8
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://epg.deny.vip/df/金鹰卡通.png" group-title="其他IPV6",金鹰卡通HD
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://epg.deny.vip/df/金鹰卡通.png" group-title="其他",金鹰卡通HD
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001460/index.m3u8
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://epg.deny.vip/df/嘉佳卡通.png" group-title="其他IPV6",嘉佳卡通
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://epg.deny.vip/df/嘉佳卡通.png" group-title="其他",嘉佳卡通
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001227/index.m3u8
-#EXTINF:-1 tvg-name="甘肃少儿" tvg-logo="https://epg.112114.xyz/logo/甘肃少儿.png" group-title="其他IPV6",甘肃少儿频道
+#EXTINF:-1 tvg-name="甘肃少儿" tvg-logo="https://epg.112114.xyz/logo/甘肃少儿.png" group-title="其他",甘肃少儿频道
 http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226289/1.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="其他IPV6",纯享4K
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="其他",纯享4K
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="其他IPV6",BesTV 4K
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="其他",BesTV 4K
 http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="其他IPV6",4K修复
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="其他",4K修复
 http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="其他IPV6",爱上4K
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="其他",爱上4K
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="其他IPV6",纯8K
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="其他",纯8K
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="其他IPV6",苏州4K
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="其他",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 
 #EXTINF:-1 tvg-id="华数高清" tvg-name="华数高清" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/华数.png" group-title="数字",华数超清

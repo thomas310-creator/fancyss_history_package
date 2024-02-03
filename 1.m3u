@@ -216,13 +216,13 @@ http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/
 #电视剧
 #EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/9d82d158ccbf6c81800a5668fe71a63533fa828bea56?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UyNzI=,g_7,xp_5,yp_5/format,f_auto" group-title="电视剧", 港剧轮播|埋堆堆
 https://www.goodiptv.club/huya/23903130
-#EXTINF:-1 tvg-logo="" group-title="电视剧", 港剧|法证先锋
+#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/d058ccbf6c81800a19d812dc556024fa828ba71ee991?x-bce-process=image/resize,m_lfit,w_536,limit_1/quality,Q_70" group-title="电视剧", 港剧|法证先锋
 https://epg.pw/stream/bc5e8a0763fe0e9bdedafff924dd93157e1553b2dd9ae44b0272a49dd91db414.ctv
-#EXTINF:-1 tvg-logo="" group-title="电视剧", 港剧|法证先锋2
+#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/4a36acaf2edda3cc7cd93be8a8be2e01213fb90e34f9?x-bce-process=image/resize,m_lfit,w_536,limit_1/quality,Q_70" group-title="电视剧", 港剧|法证先锋2
 https://epg.pw/stream/7b6106c0ffbedf80c575ecfd7cb4b090a75eeaaeeccfb86631d82d1013a2dcb8.ctv
-#EXTINF:-1 tvg-logo="" group-title="电视剧", 港剧|法证先锋3
+#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/f2deb48f8c5494eec68f754122f5e0fe99257e3c?x-bce-process=image/resize,m_lfit,w_536,limit_1/quality,Q_70" group-title="电视剧", 港剧|法证先锋3
 https://epg.pw/stream/8999135d4e7404a58be1748b5db9b86986222bef8ce54be1f1fb8ea974da46f7.ctv
-#EXTINF:-1 tvg-logo="" group-title="电视剧", 韩剧|请回答1988
+#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/241f95cad1c8a78612bcaf5d6809c93d71cf50cb?x-bce-process=image/resize,m_lfit,w_536,limit_1/quality,Q_70" group-title="电视剧", 韩剧|请回答1988
 https://epg.pw/stream/319b96079cbaf92513efad8b7aa6c2c1f8f59595e18023dbb4693fa51e169642.ctv
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://epg.deny.vip/df/都市剧场.png" group-title="电视剧",上海都市剧场HD
 http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226581/index.m3u8
@@ -303,19 +303,19 @@ http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/32212255
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1  tvg-name="明星大片" tvg-logo="https://live.fanmingming.com/tv/NEWTV明星大片.png" group-title="电影",Newtv-明星大片
 http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw2856695654_946966165/ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="电影", 斗鱼||国内恐怖惊悚片
+#EXTINF:-1 tvg-logo="https://shark2.douyucdn.cn/front-publish/ord-m-douyu-front-nodejs-master/client/assets/static/icon.lAD0aBmo.png"" group-title="电影", 斗鱼||国内恐怖惊悚片
 http://epg.112114.xyz/douyu/218859
-#EXTINF:-1 tvg-logo="" group-title="电影", 斗鱼|国外恐怖惊悚片
+#EXTINF:-1 tvg-logo="https://shark2.douyucdn.cn/front-publish/ord-m-douyu-front-nodejs-master/client/assets/static/icon.lAD0aBmo.png"" group-title="电影", 斗鱼|国外恐怖惊悚片
 http://epg.112114.xyz/douyu/96577
-#EXTINF:-1 tvg-logo="" group-title="电影", 惊悚 灾难片
+#EXTINF:-1 tvg-logo="https://shark2.douyucdn.cn/front-publish/ord-m-douyu-front-nodejs-master/client/assets/static/icon.lAD0aBmo.png"" group-title="电影", 惊悚 灾难片
 https://epg.pw/stream/30259fe0c62a1df39306558bc708c149f09092ea7dd815bf49fd3ad3bc6d73be.ctv
-EXTINF:-1 tvg-logo="" group-title="电影", 惊悚片
+EXTINF:-1 tvg-logo="https://shark2.douyucdn.cn/front-publish/ord-m-douyu-front-nodejs-master/client/assets/static/icon.lAD0aBmo.png"" group-title="电影", 惊悚片
 https://epg.pw/stream/45f9c627c30e721a4abac6a201cb94db139d8bc9f8408612944af52ae4f0337e.ctv
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/9deb93fa33fb4d9eb2a9bc30a465404c_big.jpg" group-title="电影", 斗鱼|【4K HDR】Dolby Atmos
 http://epg.112114.xyz/douyu/9249162
-#EXTINF:-1 tvg-logo="" group-title="电影", 欧美电影
+#EXTINF:-1 tvg-logo="https://shark2.douyucdn.cn/front-publish/ord-m-douyu-front-nodejs-master/client/assets/static/icon.lAD0aBmo.png"" group-title="电影", 欧美电影
 https://epg.pw/stream/7cc9d371298246354c11e969bf4a9c9c1466a81e1d264dc9631c18ca789a57f1.ctv
-#EXTINF:-1 tvg-logo="" group-title="电影", 变形金刚
+#EXTINF:-1 tvg-logo="https://shark2.douyucdn.cn/front-publish/ord-m-douyu-front-nodejs-master/client/assets/static/icon.lAD0aBmo.png"" group-title="电影", 变形金刚
 https://epg.pw/stream/17b48c0e43eb20c6e6ef27a8c0fadfeba38564bbfce7ac36378d966644510c01.ctv
 #EXTINF:-1 tvg-logo="" group-title="电影", 漫威超级英雄系列
 https://epg.pw/stream/c8b9c4a68c5990c7d9fbc325ec00ac0d63edbe45a9b5025b3c4b04bbe19283f2.ctv

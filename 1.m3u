@@ -37,14 +37,10 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002675/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://epg.deny.vip/df/生活时尚.png" group-title="上海",生活时尚HD
 
-#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.deny.vip/df/乐游.png" group-title="上海",乐游HD
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://epg.deny.vip/df/法治天地.png" group-title="上海",法治天地HD
 
-#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://epg.deny.vip/df/纪实人文.png" group-title="上海",纪实人文HD
-
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://epg.deny.vip/df/游戏风云.png" group-title="上海",游戏风云HD
-
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/1.m3u8
 #EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://epg.deny.vip/df/七彩戏剧.png" group-title="上海",七彩戏剧HD
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://epg.112114.xyz/logo/上海东方购物.png" group-title="上海",上海东方购物1
@@ -228,9 +224,9 @@ https://epg.pw/stream/7b6106c0ffbedf80c575ecfd7cb4b090a75eeaaeeccfb86631d82d1013
 https://epg.pw/stream/8999135d4e7404a58be1748b5db9b86986222bef8ce54be1f1fb8ea974da46f7.ctv
 #EXTINF:-1 tvg-logo="" group-title="电视剧", 韩剧|请回答1988
 https://epg.pw/stream/319b96079cbaf92513efad8b7aa6c2c1f8f59595e18023dbb4693fa51e169642.ctv
-#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://epg.deny.vip/df/都市剧场.png" group-title="电视剧",都市剧场HD
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://epg.deny.vip/df/都市剧场.png" group-title="电视剧",上海都市剧场HD
 http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226581/index.m3u8
-#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.deny.vip/df/欢笑剧场4K.png" group-title="电视剧",欢笑剧场
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.deny.vip/df/欢笑剧场4K.png" group-title="电视剧",上海欢笑剧场HD
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/1.m3u8
 #EXTINF:-1 tvg-name="CCTV-8" tvg-logo="https://epg.deny.vip/cctv/CCTV-8.png" group-title="电视剧",CCTV-8 电视剧
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
@@ -277,9 +273,9 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.eu.org/logo/CHC高清电影.png" group-title="电影",CHC高清电影
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-name="东森" tvg-logo="" group-title="电影",东森洋片
+#EXTINF:-1 tvg-name="东森" tvg-logo="https://epg.112114.xyz/logo/%E6%9D%B1%E6%A3%AE%E6%B4%8B%E7%89%87.png" group-title="电影",东森洋片
 https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
-#EXTINF:-1 tvg-name="东森超视" tvg-logo="" group-title="电影,东森超视
+#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%9C%E6%A3%AE%E8%B6%85%E8%A7%86.png" group-title="电影,东森超视
 https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-6" tvg-logo="https://epg.deny.vip/cctv/CCTV-6.png" group-title="电影",CCTV-6 电影频道
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226011/1.m3u8
@@ -363,26 +359,7 @@ https://epg.pw/stream/809c8266b8c66cd23b70a88b548ada44a37fb13594e88c5309ecda5536
 https://epg.pw/stream/1fb0d249669224b083e8e645e47c59ca57d5ee1027482a02cc4a54dfbde947de.ctv
 
 
-#EXTINF:-1 tvg-logo="" group-title="生活", 美食|农家小菜
 
-#EXTINF:-1 tvg-logo="" group-title="生活", 美食|沸腾吧火锅
-https://epg.pw/stream/4eab42c35e759a0e9d0cf4d6e3884bfa1bb1be9dc940c5e11d9478bbebdaa054.ctv
-#EXTINF:-1 tvg-logo="https://p1.img.cctvpic.com/photoAlbum/vms/standard/img/2017/1/19/VSETaJ0BrYFBCc8JywCf7JP9170119.jpg" group-title="生活", 美食|舌尖上的中国第一季
-https://www.goodiptv.club/yy/1354930952
-
-
-#EXTINF:-1 tvg-logo="" group-title="生活", 纪实|宇宙探索飞船
-https://epg.pw/stream/86825795b0f826a8f87f0218949b157d65377621e9b0b9ef89be45cd21d63cb5.ctv
-#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/69/1165692598/u1165692598kQPKiem.jpg" group-title="生活", 车|66车讯
-https://www.goodiptv.club/yy/1382571192
-#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/58/1838583079/u1838583079hrFMKjO.jpg" group-title="生活", 车|杀手路跑
-https://www.goodiptv.club/yy/89431014
-#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/01/2181018642/u2181018642LMqGak4.png" group-title="生活", 车|老司机带你开眼界
-https://www.goodiptv.club/yy/1349538007
-#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/40/1834402069/u1834402069YR9Peyw.jpeg" group-title="生活", 车|爱拆车
-https://www.goodiptv.club/yy/54886912
-#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/79/1836792301/u1836792301cB4yuZ8.png" group-title="生活",车|我比你更懂车 你偏不信
-https://www.goodiptv.club/yy/85042287
 
 
 
@@ -523,14 +500,18 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000250630/index.
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="爱家庭" tvg-name="iHOT爱家庭" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱家庭.png" group-title="数字",iHOT爱家庭
 
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.deny.vip/df/乐游.png" group-title="数字",上海乐游HD
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://epg.deny.vip/df/纪实人文.png" group-title="数字",上海纪实人文HD
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw1293235676_155310184/ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8?icpid=3&RTS=1669704189&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://epg.deny.vip/df/金鹰纪实.png" group-title="数字",金鹰纪实HD
-
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="纪实科教" tvg-logo="" group-title="数字",北京纪实科教
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://epg.deny.vip/df/快乐垂钓.png" group-title="数字",快乐垂钓HD
-
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002264/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="茶频道" tvg-logo="https://epg.deny.vip/df/茶频道.png" group-title="数字",茶频道HD
-
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="军事评论" tvg-logo="https://live.fanmingming.com/tv/NEWTV军事评论.png" group-title="数字",军事评论
 http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw3373254713_-1111569189/ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.deny.vip/df/五星体育.png" group-title="上海",五星体育HD
@@ -556,6 +537,23 @@ http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw2554338791_49940138/o
 #EXTINF:-1 tvg-name="家庭理财" tvg-logo="https://epg.deny.vip/df/家庭理财.png" group-title="数字",家庭理财
 
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://epg.deny.vip/df/中国天气.png" group-title="数字",中国天气
+
+#EXTINF:-1 tvg-logo="" group-title="数字", 美食|沸腾吧火锅
+https://epg.pw/stream/4eab42c35e759a0e9d0cf4d6e3884bfa1bb1be9dc940c5e11d9478bbebdaa054.ctv
+#EXTINF:-1 tvg-logo="https://p1.img.cctvpic.com/photoAlbum/vms/standard/img/2017/1/19/VSETaJ0BrYFBCc8JywCf7JP9170119.jpg" group-title="数字", 美食|舌尖上的中国第一季
+https://www.goodiptv.club/yy/1354930952
+#EXTINF:-1 tvg-logo="" group-title="数字", 纪实|宇宙探索飞船
+https://epg.pw/stream/86825795b0f826a8f87f0218949b157d65377621e9b0b9ef89be45cd21d63cb5.ctv
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/69/1165692598/u1165692598kQPKiem.jpg" group-title="数字", 车|66车讯
+https://www.goodiptv.club/yy/1382571192
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/58/1838583079/u1838583079hrFMKjO.jpg" group-title="数字", 车|杀手路跑
+https://www.goodiptv.club/yy/89431014
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/01/2181018642/u2181018642LMqGak4.png" group-title="数字", 车|老司机带你开眼界
+https://www.goodiptv.club/yy/1349538007
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/40/1834402069/u1834402069YR9Peyw.jpeg" group-title="数字", 车|爱拆车
+https://www.goodiptv.club/yy/54886912
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/79/1836792301/u1836792301cB4yuZ8.png" group-title="数字",车|我比你更懂车 你偏不信
+https://www.goodiptv.club/yy/85042287
 
 
 #国际频道/18个频道
@@ -612,7 +610,7 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000180630/index.
 #EXTINF:-1,tvg-id="爱玩具" tvg-name="iHOT爱玩具" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱玩具.png" group-title="动漫",iHOT爱玩具
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://epg.deny.vip/df/金鹰卡通.png" group-title="动漫",金鹰卡通HD
-
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://epg.deny.vip/df/嘉佳卡通.png" group-title="动漫",嘉佳卡通
 ·
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://epg.deny.vip/df/卡酷少儿.png" group-title="动漫",北京卡酷少儿HD

@@ -227,7 +227,7 @@ https://epg.pw/stream/7b6106c0ffbedf80c575ecfd7cb4b090a75eeaaeeccfb86631d82d1013
 https://epg.pw/stream/8999135d4e7404a58be1748b5db9b86986222bef8ce54be1f1fb8ea974da46f7.ctv
 #EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/241f95cad1c8a78612bcaf5d6809c93d71cf50cb?x-bce-process=image/resize,m_lfit,w_536,limit_1/quality,Q_70" group-title="电视剧", 韩剧|请回答1988
 https://epg.pw/stream/319b96079cbaf92513efad8b7aa6c2c1f8f59595e18023dbb4693fa51e169642.ctv
-#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/e61190ef76c6a7efce1b43ba68acb851f3deb58fc8aa?x-bce-process=image/resize,m_lfit,w_536,limit_1/quality,Q_70" group-title="电视剧", 韩剧|W-两个世界
+#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/e61190ef76c6a7efce1b43ba68acb851f3deb58fc8aa?x-bce-process=image/resize,m_lfit,w_536,limit_1/quality,Q_70" group-title="电视剧", 韩剧|法证先锋34
 https://epg.pw/stream/b90f93ef766c1b663211aeebc46e996e3caa8151e0f3f6d320db7d2c81b9a3eb.ctv
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://epg.deny.vip/df/都市剧场.png" group-title="电视剧",上海都市剧场HD
 http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226581/index.m3u8
@@ -281,10 +281,10 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/bjtdy.png" group-title="电影",淘电影
-https://epg.pw/stream/479e591af433f22217c0ef4ce1388f1d1967bd5424d271b8ee9f26b82ddd6b64.ctv
-#EXTINF:-1 tvg-name="东森" tvg-logo="https://epg.112114.xyz/logo/%E6%9D%B1%E6%A3%AE%E6%B4%8B%E7%89%87.png" group-title="电影",东森洋片
+
+#EXTINF:-1 tvg-name="東森洋片台" tvg-logo="https://epg.112114.xyz/logo/%E6%9D%B1%E6%A3%AE%E6%B4%8B%E7%89%87.png" group-title="电影",東森洋片
 https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
-#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%9C%E6%A3%AE%E8%B6%85%E8%A7%86.png" group-title="电影,东森超视
+#EXTINF:-1 tvg-name="東森電影台" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%9C%E6%A3%AE%E8%B6%85%E8%A7%86.png" group-title="电影,東森超视
 https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
 #EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Cinemax.png" group-title="电影,CINEMAX
 

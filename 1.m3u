@@ -135,8 +135,6 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001306/index.m3
 
 
 #电视剧
-#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/9d82d158ccbf6c81800a5668fe71a63533fa828bea56?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UyNzI=,g_7,xp_5,yp_5/format,f_auto" group-title="电视剧", 港剧轮播|埋堆堆
-https://www.goodiptv.club/huya/23903130
 #EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/d058ccbf6c81800a19d812dc556024fa828ba71ee991?x-bce-process=image/resize,m_lfit,w_536,limit_1/quality,Q_70" group-title="电视剧", 港剧|法证先锋
 https://epg.pw/stream/bc5e8a0763fe0e9bdedafff924dd93157e1553b2dd9ae44b0272a49dd91db414.ctv
 #EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/4a36acaf2edda3cc7cd93be8a8be2e01213fb90e34f9?x-bce-process=image/resize,m_lfit,w_536,limit_1/quality,Q_70" group-title="电视剧", 港剧|法证先锋2

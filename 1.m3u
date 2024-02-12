@@ -522,7 +522,8 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000290630/index.
 
 #EXTINF:-1 tvg-name="爱赛车" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱赛车.png" group-title="数字",iHOT爱赛车
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
-
+#EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="体育",咪咕直播-7
+http://[2409:8087:1a01:df::4011]/PLTV/88888888/224/3221225643/index.m3u8
 
 
 

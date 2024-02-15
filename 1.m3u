@@ -706,7 +706,7 @@ https://fake-stream.livednow.com/4gtv/litv-longturn03?token=5fc1547ad0885b748746
 https://fake-stream.livednow.com/4gtv/litv-longturn11?token=74540094d802181407acb91aec2b7864&user_id=1449408060&user_token=965f23a11102070fbcfb2046510259fe
 #EXTINF:-1 tvg-name="龍華偶像台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV6.png" group-title="Y",龍華偶像台
 https://fake-stream.livednow.com/ofiii/litv-longturn12?token=adf43b4c93d62a343aab1dfc7fd62b27&user_id=1449408060&user_token=965f23a11102070fbcfb2046510259fe
-#EXTINF:-1 tvg-name="龍華經典台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV7.png" group-title="Y藝",龍華經典台
+#EXTINF:-1 tvg-name="龍華經典台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV7.png" group-title="Y",龍華經典台
 https://fake-stream.livednow.com/ofiii/litv-longturn21?token=097065d67cee38189c035b68a102ed12&user_id=1449408060&user_token=965f23a11102070fbcfb2046510259fe
 #EXTINF:-1 tvg-name="台灣戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Taiwanxiju.png" group-title="Y",台灣戲劇
 https://fake-stream.livednow.com/ofiii/litv-longturn22?token=3793bc781913cad2c6daf43f8336f642&user_id=1449408060&user_token=965f23a11102070fbcfb2046510259fe

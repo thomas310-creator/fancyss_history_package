@@ -2,7 +2,7 @@
 
 
 #上海
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="上海",崇明
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/thomas310-creator/ss/e9c0907a5623d2243e1df829500a5574d2d72c6e/cmtv.png" group-title="上海",崇明
 https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 https://epg.pw/stream/6773eb2f51d2bc1c20159101314325191e4af389a039d4d56658aa3099a87cc5.ctv
 #EXTINF:-1 group-title="上海",嘉定电视台
@@ -246,12 +246,8 @@ http://epg.112114.xyz/douyu/96577
 https://epg.pw/stream/30259fe0c62a1df39306558bc708c149f09092ea7dd815bf49fd3ad3bc6d73be.ctv
 EXTINF:-1 tvg-logo="https://shark2.douyucdn.cn/front-publish/ord-m-douyu-front-nodejs-master/client/assets/static/icon.lAD0aBmo.png"" group-title="电影", 惊悚片
 https://epg.pw/stream/45f9c627c30e721a4abac6a201cb94db139d8bc9f8408612944af52ae4f0337e.ctv
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/9deb93fa33fb4d9eb2a9bc30a465404c_big.jpg" group-title="电影", 斗鱼|【4K HDR】Dolby Atmos
-http://epg.112114.xyz/douyu/9249162
 #EXTINF:-1 tvg-logo="https://shark2.douyucdn.cn/front-publish/ord-m-douyu-front-nodejs-master/client/assets/static/icon.lAD0aBmo.png"" group-title="电影", 欧美电影
 https://epg.pw/stream/7cc9d371298246354c11e969bf4a9c9c1466a81e1d264dc9631c18ca789a57f1.ctv
-#EXTINF:-1 tvg-logo="https://shark2.douyucdn.cn/front-publish/ord-m-douyu-front-nodejs-master/client/assets/static/icon.lAD0aBmo.png"" group-title="电影", 变形金刚
-https://epg.pw/stream/17b48c0e43eb20c6e6ef27a8c0fadfeba38564bbfce7ac36378d966644510c01.ctv
 #EXTINF:-1 tvg-logo="" group-title="电影", 漫威超级英雄系列
 https://epg.pw/stream/c8b9c4a68c5990c7d9fbc325ec00ac0d63edbe45a9b5025b3c4b04bbe19283f2.ctv
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/bfe36feaa6ab43019bce066ec53896ca_big.jpg" group-title="电影", 漫威主线剧情
@@ -272,10 +268,6 @@ http://epg.112114.xyz/douyu/36337
 http://epg.112114.xyz/douyu/4332
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202008/3c7aed7c29fb455fbe369a1a383c7628_big.jpg" group-title="电影", 斗鱼|豆瓣高评分电影
 http://epg.112114.xyz/douyu/8770422
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201909/13a0b26f642a4231ad377040d1c58d07_big.jpg" group-title="电影", 斗鱼|【伊太刀刀】60帧 蓝光原画
-http://epg.112114.xyz/douyu/747764
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201905/9293b975b9f94592ae06e32240109292_big.jpg" group-title="电影", 斗鱼|恐怖 丧尸 鬼片 灾难科幻
-http://epg.112114.xyz/douyu/263824
 #EXTINF:-1 tvg-logo="https://shark2.douyucdn.cn/front-publish/ord-m-douyu-front-nodejs-master/client/assets/static/icon.lAD0aBmo.png" group-title="电影", 斗鱼|吃米滴的虫
 http://epg.112114.xyz/douyu/315457
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201805/20743595471d57653a0e3a09a018d007_big.jpg" group-title="电影", 斗鱼|粤语【周星驰】【林正英】

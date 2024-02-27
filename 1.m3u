@@ -677,29 +677,16 @@ https://epg.pw/stream/ae335b5e024f28c376253c3b9549fc3b47594c55f18457bfa210f33dc2
 #EXTINF:-1 tvg-id="105326" tvg-name="TVB 明珠台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB2.png" group-title="Y",TVB 明珠台
 
 #EXTINF:-1 tvg-id="105222" tvg-name="TVB J2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB3.png" group-title="Y",TVB J2 台
-https://fake-stream.livednow.com/hkdvb/j2?token=16ca037a4f5d03eaebee24d129d7d3fb&user_id=1449408060&user_token=965f23a11102070fbcfb2046510259fe
-#EXTINF:-1 tvg-id="10957" tvg-name="ViuTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/viutv.png" group-title="Y",ViuTV
-https://fake-stream.livednow.com/hkdvb/viutv?token=3c6a2c45176483f6a090749ce1ea0beb&user_id=1449408060&user_token=965f23a11102070fbcfb2046510259fe
-#EXTINF:-1 tvg-id="10954" tvg-name="ViuTV Six" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/viutv6.png" group-title="Y",ViuTV Six
-https://fake-stream.livednow.com/hkdvb/viutv6?token=29d5aee9aebad63b5141240a6fd24fa3&user_id=1449408060&user_token=965f23a11102070fbcfb2046510259fe
-#EXTINF:-1 tvg-id="10967" tvg-name="Now Jelli 紫金國際台" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/108-dbg-c.png" group-title="Y",Now Jelli 紫金國際台
-https://fake-stream.livednow.com/hkdvb/jelli?token=5d09fadc477d139e04adbe195362f8f3&user_id=1449408060&user_token=965f23a11102070fbcfb2046510259fe
-#EXTINF:-1 tvg-id="-1" tvg-name="Line Today NBA" tvg-logo="https://media.suara.com/pictures/653x366/2021/09/03/23832-line-today.jpg" group-title="Y",Line Today NBA
-https://fake-stream.livednow.com/line_today/videolandsports?token=fe44a6f50b373603e7ade66f751d2a37&user_id=1449408060&user_token=965f23a11102070fbcfb2046510259fe
-#EXTINF:-1 tvg-id="-1" tvg-name="Line Today UBA" tvg-logo="https://media.suara.com/pictures/653x366/2021/09/03/23832-line-today.jpg" group-title="Y",Line Today UBA
-https://fake-stream.livednow.com/line_today/uba?token=f7926fda6722b7c44b61f909e5f44393&user_id=1449408060&user_token=965f23a11102070fbcfb2046510259fe
+
+
+
+
 #EXTINF:-1 tvg-id="158625" tvg-name="緯來體育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Videoland7.png" group-title="Y",緯來體育
 https://fake-stream.livednow.com/redirect/videolandsports?token=fe44a6f50b373603e7ade66f751d2a37&user_id=1449408060&user_token=965f23a11102070fbcfb2046510259fe
-#EXTINF:-1 tvg-id="37586" tvg-name="CCTV 风云足球" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVfyzq.png" group-title="Y",CCTV 风云足球
-http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_FENGSHANGZQ-CQ/G_FENGSHANGZQ-CQ.m3u8?user_id=1449408060&user_token=965f23a11102070fbcfb2046510259fe
 #EXTINF:-1 tvg-id="10843" tvg-name="民視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV.png" group-title="Y",民視
 https://fake-stream.livednow.com/4gtv/4gtv-4gtv002?token=b8e3d5214e6cffbb4d17830c7768800c&user_id=1449408060&user_token=965f23a11102070fbcfb2046510259fe
 #EXTINF:-1 tvg-id="11229" tvg-name="民視第一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png" group-title="Y",民視第一台
 https://fake-stream.livednow.com/4gtv/4gtv-4gtv003?token=3758307f36347497c96547757b1805e8&user_id=1449408060&user_token=965f23a11102070fbcfb2046510259fe
-#EXTINF:-1 tvg-id="12063" tvg-name="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" group-title="Y"",民視新聞台
-https://fake-stream.livednow.com/4gtv/litv-ftv13?token=b55a3e83d722a63441b3a1838a67e8bc&user_id=1449408060&user_token=965f23a11102070fbcfb2046510259fe
-#EXTINF:-1 tvg-id="11230" tvg-name="民視台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV3.png" group-title="Y",民視台灣台
-https://fake-stream.livednow.com/4gtv/4gtv-4gtv001?token=9c157dded413b0683514fe5acd3d025a&user_id=1449408060&user_token=965f23a11102070fbcfb2046510259fe
 #EXTINF:-1 tvg-id="14093" tvg-name="民視綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png" group-title="Y",民視綜藝台
 https://fake-stream.livednow.com/4gtv/4gtv-4gtv004?token=e6a6be636d58709b08a491a720f9fcfb&user_id=1449408060&user_token=965f23a11102070fbcfb2046510259fe
 #EXTINF:-1 tvg-id="-1" tvg-name="民視影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV4.png" group-title="Y",民視影劇台

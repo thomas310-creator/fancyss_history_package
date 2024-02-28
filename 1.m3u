@@ -739,7 +739,7 @@ https://fake-stream.livednow.com/4gtv/4gtv-4gtv061?token=5b639205e26ded7a637e025
 https://fake-stream.livednow.com/4gtv/116?token=e06e34ddf1ea7376844aa5f4f9f875c9&user_id=1449408060&user_token=965f23a11102070fbcfb2046510259fe
 #EXTINF:-1 tvg-id="12587" tvg-name="靖天映畫台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV3.png" group-title="Y",靖天映畫台
 https://fake-stream.livednow.com/4gtv/42?token=b229f94b5c14dcf42eabd48b63c1be92&user_id=1449408060&user_token=965f23a11102070fbcfb2046510259fe
-#EXTINF:-1 tvg-id="158616" tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="Y"",TVBS
+#EXTINF:-1 tvg-id="158616" tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="Y",TVBS
 https://fake-stream.livednow.com/4gtv/183?token=65f2416f8cecc2c5f60df5e66d5744fb&user_id=1449408060&user_token=965f23a11102070fbcfb2046510259fe
 #EXTINF:-1 tvg-id="11216" tvg-name="TVBS 精采台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS3.png" group-title="Y",TVBS 精采台
 https://fake-stream.livednow.com/4gtv/227?token=18069f92a33d9fe1a3319376e7fda4f4&user_id=1449408060&user_token=965f23a11102070fbcfb2046510259fe
@@ -795,8 +795,6 @@ https://fake-stream.livednow.com/4gtv/168?token=e3da5a603fd4aa0bd2d3531a99bd0d89
 https://fake-stream.livednow.com/4gtv/213?token=c430feb88a943497c542aaeb2c983b13&user_id=1449408060&user_token=965f23a11102070fbcfb2046510259fe
 #EXTINF:-1 tvg-name="Lifetime 娛樂頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live029_mobile.png" group-title="Y",Lifetime 娛樂頻道
 https://fake-stream.livednow.com/4gtv/217?token=478ef5ba71751ec404fb29613e72d7b9&user_id=1449408060&user_token=965f23a11102070fbcfb2046510259fe
-#EXTINF:-1  tvg-name="電影原聲台 CMusic" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/cmusic.png" group-title="Y",電影原聲台 CMusic
-https://fake-stream.livednow.com/4gtv/218?token=c8a4148b53affb473a5a5401f4998141&user_id=1449408060&user_token=965f23a11102070fbcfb2046510259fe
 #EXTINF:-1  tvg-name="Fun 探索娛樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live011_mobile.png" group-title="Y",Fun 探索娛樂台
 https://fake-stream.livednow.com/4gtv/274?token=cdc29f951199b99bc1e01ca7593d82f1&user_id=1449408060&user_token=965f23a11102070fbcfb2046510259fe
 #EXTINF:-1 tvg-name="豬哥亮歌廳秀" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV7.png" group-title="Y",豬哥亮歌廳秀

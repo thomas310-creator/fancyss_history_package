@@ -42,11 +42,11 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000005000031641/index.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://epg.deny.vip/df/七彩戏剧.png" group-title="上海",七彩戏剧HD
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000011000031116/index.m3u8?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="东方购物" tvg-logo="https://epg.112114.xyz/logo/上海东方购物.png" group-title="上海",上海东方购物1
+#EXTINF:-1 tvg-name="东方购物" tvg-logo="https://raw.githubusercontent.com/thomas310-creator/tb/main/taibiao/shanghai/dfgw.png" group-title="上海",上海东方购物1
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000007000010004/index.m3u8?channel-id=bestzb&Contentid=5000000007000010004&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="" tvg-logo="https://epg.112114.xyz/logo/上海东方购物.png" group-title="上海",上海东方购物2
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/thomas310-creator/tb/main/taibiao/shanghai/dfgw.png" group-title="上海",上海东方购物2
 http://ocj2.kksmg.com/ocj2/ocj2.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://epg.112114.xyz/logo/上海东方购物.png" group-title="上海",上海东方购物3
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/thomas310-creator/tb/main/taibiao/shanghai/dfgw.png" group-title="上海",上海东方购物3
 #EXTINF:-1,tvg-logo="https://wx2.sinaimg.cn/mw2000/679d8458ly1hj42rw3f1dj20wi0wi0uk.jpg"group-title="上海",上海动感101
 http://ls.qingting.fm/live/274.m3u8
 

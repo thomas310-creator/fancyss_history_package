@@ -17,7 +17,7 @@ https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.deny.vip/df/欢笑剧场4K.png" group-title="上海",欢笑剧场HD
 
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.deny.vip/df/五星体育.png" group-title="上海",五星体育HD
-
+http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.deny.vip/df/乐游.png" group-title="上海",乐游HD
 
 #EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://epg.deny.vip/df/纪实人文.png" group-title="上海",纪实人文HD
@@ -395,7 +395,7 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m
 
 #体育
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.deny.vip/df/五星体育.png" group-title="体育",五星体育HD
-
+http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="jbty" tvg-name="劲爆体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jbty.png" group-title="体育",劲爆体育
 
 #EXTINF:-1 tvg-name="CCTV-5" tvg-logo="https://epg.deny.vip/cctv/CCTV-5.png" group-title="体育",CCTV-5 体育

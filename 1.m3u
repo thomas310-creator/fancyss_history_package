@@ -209,7 +209,7 @@ https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
 #EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Cinemax.png" group-title="电影,CINEMAX
 
 #EXTINF:-1 tvg-name="CCTV-6" tvg-logo="https://epg.deny.vip/cctv/CCTV-6.png" group-title="电影",CCTV-6 电影频道
-
+http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 #EXTINF:-1  tvg-name="黑莓电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hmdy.png" group-title="电影",黑莓电影
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-name="NewTV超级电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV23.png" group-title="电影",Newtv-超级电影
@@ -721,7 +721,7 @@ https://epg.pw/stream/ae335b5e024f28c376253c3b9549fc3b47594c55f18457bfa210f33dc2
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",cctv 5+ 体育赛事
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-6" tvg-logo="https://epg.deny.vip/cctv/CCTV-6.png" group-title="央视",CCTV-6 电影频道
-
+http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 #EXTINF:-1 tvg-name="CCTV-7" tvg-logo="https://epg.deny.vip/cctv/CCTV-7.png" group-title="央视",CCTV-7 国防军事
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-8" tvg-logo="https://epg.deny.vip/cctv/CCTV-8.png" group-title="央视",CCTV-8 电视剧

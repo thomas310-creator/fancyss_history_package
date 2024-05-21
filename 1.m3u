@@ -146,17 +146,17 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN126389BESTVSMGSMG9/in
 
 #电视剧
 #EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/d058ccbf6c81800a19d812dc556024fa828ba71ee991?x-bce-process=image/resize,m_lfit,w_536,limit_1/quality,Q_70" group-title="电视剧", 港剧|法证先锋
-https://epg.pw/stream/bc5e8a0763fe0e9bdedafff924dd93157e1553b2dd9ae44b0272a49dd91db414.ctv
+
 #EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/4a36acaf2edda3cc7cd93be8a8be2e01213fb90e34f9?x-bce-process=image/resize,m_lfit,w_536,limit_1/quality,Q_70" group-title="电视剧", 港剧|法证先锋2
-https://epg.pw/stream/7b6106c0ffbedf80c575ecfd7cb4b090a75eeaaeeccfb86631d82d1013a2dcb8.ctv
+
 #EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/f2deb48f8c5494eec68f754122f5e0fe99257e3c?x-bce-process=image/resize,m_lfit,w_536,limit_1/quality,Q_70" group-title="电视剧", 港剧|法证先锋3
 
 #EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/e61190ef76c6a7ef254a0f7ef2faaf51f3de667e?x-bce-process=image/resize,m_lfit,w_536,limit_1/quality,Q_70" group-title="电视剧", 韩剧|法证先锋4
-https://epg.pw/stream/b90f93ef766c1b663211aeebc46e996e3caa8151e0f3f6d320db7d2c81b9a3eb.ctv
+
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://epg.deny.vip/df/都市剧场.png" group-title="电视剧",上海都市剧场HD
-https://itv.lat/tv/live.php?&line=1&id=dsjc
+
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.deny.vip/df/欢笑剧场4K.png" group-title="电视剧",上海欢笑剧场HD
-https://itv.lat/tv/live.php?&line=1&id=hxjc4k
+
 #EXTINF:-1 tvg-name="CCTV-8" tvg-logo="https://epg.deny.vip/cctv/CCTV-8.png" group-title="电视剧",CCTV-8 电视剧
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728970aa82/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUdDh4EPdDnvGlSBkYaxFdaymid9ta2tVUW0%2FdVrFqszC1EVEkAbpip1IYxn%2Ba2aA%2BVAihIiw9D8ejUsDbfU0K68
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVhjjc.png" group-title="电视剧",怀旧剧场
@@ -316,7 +316,7 @@ https://epg.pw/stream/02d1fb76a8e05d628275f54501e4107c30c5228849c0e602cdf9346751
 #EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/b8389b504fc2d56285352b69784787ef76c6a6efc6a2?x-bce-process=image/resize,m_lfit,w_536,limit_1/quality,Q_70" group-title="综艺", 吐槽大会 第2季
 
 #EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/b8389b504fc2d56285352b69784787ef76c6a6efc6a2?x-bce-process=image/resize,m_lfit,w_536,limit_1/quality,Q_70" group-title="综艺", 吐槽大会 第5季
-https://www.goodiptv.club/yy/1354889009
+
 #EXTINF:-1 tvg-id="lypd" tvg-name="梨园" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/lypd.png" group-title="综艺",梨园
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 

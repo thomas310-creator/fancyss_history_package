@@ -453,53 +453,8 @@ http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 
 #EXTINF:-1 tvg-id="-1" tvg-name="中天新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="港台",台|中天新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 tvg-name="天才冲冲冲" tvg-logo="https://img3.doubanio.com/view/photo/l/public/p2899471382.webp" group-title="港台",台|天才冲冲冲「综艺」
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV7.png" group-title="港台",台|猪哥秀
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8
-#EXTINF:-1 tvg-name="中视经典" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTV.png" group-title="港台",台|中视HD
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8
-#EXTINF:-1 tvg-name="Animax" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719234119433352_60.jpg" group-title="港台",animax_hd
-https://epg.pw/stream/ab76ebea966bebebbb21ccdb4773f6d2cbf6ebdd63b7a481089361d6d462a904.m3u8
-
-
-#国际频道
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="国际",24小时背景音乐
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="港台",24小时背景音乐
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="国际",美|第一财经新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://bkimg.cdn.bcebos.com/pic/eaf81a4c510fd9f9d72ae00e907ac32a2834349b0e06?x-bce-process=image/resize,m_lfit,w_536,limit_1/quality, Q_70" group-title="国际",美|NBC新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://scontent.fhkg3-1.fna.fbcdn.net/v/t39.30808-6/307317346_517659940369942_6559568471768946809_n.jpg?_nc_cat=100&ccb=1- 7&_nc_sid=efb6e6&_nc_ohc=2FcqNzt0nGsAX87oFSD&_nc_ht=scontent.fhkg3-1.fna&oh=00_AfA6smCZ3sJkd69CXu9grqt-mA0pjqjmvO5eXvueh8I3ug&oe=65939909" group-title="国际",美|时代网络
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV74.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="国际",美|现在福克斯直播
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV909.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="国际",韩国|THE K-POP
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="国际",韩|综艺
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV80.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="国际",日本|ANN 新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
-#EXTINF:-1 tvg-logo="" group-title="国际",日本|东京涩谷「东京涩谷」
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
-#EXTINF:-1 tvg-name="qvc japan"tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021009758839_20.png" group-title="国际",日本|qvc 日本[其他]
-https://epg.pw/stream/178ef81e170e7020504291d67166d2ab9b4eb67f17a4520d1107779a433a8fec.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/DWChannel.png" group-title="国际",德国|DW NEWS
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="国际",法|法国 24
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="国际",土耳其|HABER TURK
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
-#EXTINF:-1 tvg-id="D07" tvg-name="NHK World" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NHKWorld.png" group-title="国际",NHK World
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1 tvg-id="D08" tvg-name="CNA" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ChannelAsia.png" group-title="国际",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="D09" tvg-name="AlJazeera" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AlJazeera.png" group-title="国际",AlJazeera
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="D10" tvg-name="Arirang TV" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/Arirang_TV.png" group-title="国际",Arirang TV
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 tvg-id="D13" tvg-name="CGTN" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTN.png" group-title="国际",CGTN
-
 
 
 

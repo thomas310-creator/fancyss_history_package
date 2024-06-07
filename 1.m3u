@@ -390,7 +390,7 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m
 #体育
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="h" group-title="体育",纬来体育HD
 http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
-#EXTINF:-1 tvg-name="" tvg-logo="h" group-title="体育",三人斗地主
+#EXTINF:-1 tvg-name="" tvg-logo="https://github.com/thomas310-creator/tb/blob/23e3c134f2c6a8848ae7637e8a550f2f654aa991/taibiao/tiyu/JJ.png" group-title="体育",三人斗地主
 http://[2409:8087:5e08:24::15]:6610/000000001000/2000000004000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000015&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.deny.vip/df/五星体育.png" group-title="体育",五星体育HD
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
